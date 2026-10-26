@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ular Tangga SDG Quest</title>
+<meta name="description" content="SDG Quest: ular tangga dan mode quiz untuk mengenal 17 Tujuan Pembangunan Berkelanjutan.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div class="wheel" aria-hidden="true"></div>
+      <div><h1>SDG Quest</h1><p>Ular tangga · Play. Learn. Make an Impact.</p></div>
+    </div>
+    <div class="row-actions" id="topActions" hidden>
+      <button class="btn ghost" id="endBtn" type="button">Akhiri permainan</button>
+    </div>
+  </header>
+
+  <nav class="modes" id="modeNav" aria-label="Pilih mode permainan">
+    <button type="button" data-mode="learn" aria-pressed="false"><b>Kenali 17 SDGs</b><span>Pengenalan sebelum bermain</span></button>
+    <button type="button" data-mode="ular" aria-pressed="true"><b>Ular Tangga SDG</b><span>2–4 pemain · 5–20 menit</span></button>
+    <button type="button" data-mode="quiz" aria-pressed="false"><b>Mode Quiz</b><span>1 pemain · sekitar 3 menit</span></button>
+  </nav>
+
+  <!-- PENGENALAN 17 SDGs -->
+  <section id="learn" class="learn" hidden aria-labelledby="h-learn">
+    <div class="card">
+      <div class="learn-intro">
+        <div style="display:flex;flex-direction:column;gap:10px">
+          <p class="eyebrow">Pengenalan</p>
+          <h2 id="h-learn">Apa itu SDGs?</h2>
+          <p><b>SDGs (Sustainable Development Goals)</b> atau Tujuan Pembangunan Berkelanjutan adalah 17 tujuan global yang disepakati negara-negara anggota PBB pada tahun 2015. Tujuannya mengakhiri kemiskinan, mengurangi kesenjangan, dan melindungi bumi.</p>
+          <p>Prinsip utamanya adalah <b>“Leave No One Behind”</b>: tidak boleh ada seorang pun yang tertinggal dari pembangunan. Di Indonesia, SDGs dikenal sebagai <b>TPB</b> (Tujuan Pembangunan Berkelanjutan).</p>
+          <div class="pillars" aria-label="Empat pilar SDGs di Indonesia"><span>Pilar sosial · SDG 1–5</span><span>Pilar ekonomi · SDG 7–10, 17</span><span>Pilar lingkungan · SDG 6, 11–15</span><span>Pilar hukum &amp; tata kelola · SDG 16</span></div>
+        </div>
+        <div class="facts">
+          <div><b>17</b><span>tujuan</span></div>
+          <div><b>2015</b><span>disepakati</span></div>
+          <div><b>2030</b><span>target tercapai</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="sdg-grid" id="sdgGrid"></div>
+  </section>
+
+  <!-- MODE QUIZ: pilih permainan -->
+  <section id="quizHome" class="qhome" hidden aria-labelledby="h-quiz">
+    <div class="card">
+      <p class="eyebrow">Mode Quiz</p>
+      <h2 id="h-quiz">Tiga permainan singkat, skor maksimal 150</h2>
+      <div class="qsetup">
+        <div class="field"><label for="qzName">Nama pemain</label><input id="qzName" maxlength="16" value="Pemain 1"></div>
+        <div class="field"><label for="qzCat">Kategori SDG Quiz</label><select id="qzCat"></select></div>
+        <button class="btn" id="playAll" type="button">Main ketiganya</button>
+      </div>
+    </div>
+    <div class="games">
+      <article class="game-card" style="--gc:#C5192D;--gt:#FFFFFF">
+        <span class="gtag" id="tagQuiz"></span>
+        <h2>SDG Quiz</h2>
+        <ul><li>5 soal pilihan ganda</li><li>Waktu 60 detik</li><li>Benar +10 poin · maks. 50</li></ul>
+        <button class="btn" type="button" data-play="quiz">Main SDG Quiz</button>
+      </article>
+      <article class="game-card" style="--gc:#BF8B2E;--gt:#FFFFFF">
+        <span class="gtag" id="tagSort"></span>
+        <h2>Waste Sorting</h2>
+        <ul><li>Pilah 10 jenis sampah</li><li>Waktu 30 detik</li><li>Benar +5 poin · maks. 50</li></ul>
+        <button class="btn" type="button" data-play="sort">Main Waste Sorting</button>
+      </article>
+      <article class="game-card" style="--gc:#3F7E44;--gt:#FFFFFF">
+        <span class="gtag" id="tagDec"></span>
+        <h2>SDG Decision</h2>
+        <ul><li>5 situasi sehari-hari</li><li>20 detik per situasi</li><li>Terbaik +10, cukup baik +5 · maks. 50</li></ul>
+        <button class="btn" type="button" data-play="dec">Main SDG Decision</button>
+      </article>
+    </div>
+    <div class="card" aria-labelledby="h-lb">
+      <div class="lb-head">
+        <div><p class="eyebrow">Papan peringkat</p><h2 id="h-lb">10 skor tertinggi</h2></div>
+        <div class="seg" id="lbTabs" role="group" aria-label="Pilih papan peringkat"></div>
+      </div>
+      <div id="lbBody"></div>
+    </div>
+  </section>
+
+  <!-- MODE QUIZ: bermain -->
+  <section id="quizPlay" hidden aria-live="polite">
+    <div class="card qplay">
+      <div class="qp-head">
+        <h2 id="qpTitle">SDG Quiz</h2>
+        <div class="qp-stats"><span><small>Waktu</small><b id="qpTime">60</b></span><span><small>Skor</small><b id="qpScore">0</b></span></div>
+      </div>
+      <div class="timer"><i id="qpBar"></i></div>
+      <div id="qpBody"></div>
+    </div>
+    <p style="text-align:center;margin:14px 0 0"><button class="btn ghost" id="qzExit" type="button">Keluar dari Mode Quiz</button></p>
+  </section>
+
+  <!-- LAYAR 1: pilih kategori -->
+  <section id="home" class="home" aria-labelledby="h-cat">
+    <div style="display:flex;flex-direction:column;gap:12px;min-width:0">
+      <p class="eyebrow">Langkah 1</p>
+      <h2 id="h-cat">Pilih kategori SDG</h2>
+      <div class="cats" id="cats" role="group" aria-label="17 kategori SDG"></div>
+    </div>
+    <div class="side-col">
+    <aside class="card" aria-labelledby="h-set">
+      <p class="eyebrow">Langkah 2</p>
+      <h2 id="h-set">Atur permainan</h2>
+      <div class="sel-chip" id="selChip"></div>
+      <div class="field">
+        <span class="lbl" id="lbl-np">Jumlah pemain</span>
+        <div class="seg" id="np" role="group" aria-labelledby="lbl-np"></div>
+      </div>
+      <div class="field">
+        <span class="lbl">Nama pemain</span>
+        <div class="names" id="names"></div>
+      </div>
+      <div class="field">
+        <span class="lbl" id="lbl-dur">Durasi permainan</span>
+        <div class="seg" id="dur" role="group" aria-labelledby="lbl-dur"></div>
+      </div>
+      <ul class="rules">
+        <li>Berhenti di kotak <b>?</b> → ambil kartu Quest, jawab dalam 30 detik.</li>
+        <li>Benar <b>+2</b>, salah atau waktu habis <b>−1</b> (poin minimal 0).</li>
+        <li>Ular dan tangga hanya memindahkan pion, tidak mengubah poin.</li>
+        <li>Sampai kotak 100 → <b>+3</b>, lalu mulai lagi dari kotak 1.</li>
+        <li>Poin terbanyak saat waktu habis menjadi pemenang.</li>
+      </ul>
+      <button class="btn cat-btn" id="startBtn" type="button">Mulai main</button>
+    </aside>
+    <div class="card" aria-labelledby="h-hist">
+      <div><p class="eyebrow">Riwayat</p><h2 id="h-hist">Permainan terakhir</h2></div>
+      <div id="histBody"></div>
+    </div>
+    </div>
+  </section>
+
+  <!-- LAYAR 2: permainan -->
+  <section id="game" class="game" hidden aria-label="Papan permainan">
+    <div class="board-wrap">
+      <div class="board" id="board">
+        <div class="grid" id="grid"></div>
+        <svg class="overlay" id="overlay" viewBox="0 0 100 100" aria-hidden="true"></svg>
+        <div id="tokens"></div>
+      </div>
+      <div class="legend">
+        <span><i class="sw qsw" id="qLegend"></i>Kotak kartu Quest</span>
+        <span><i class="sw" style="background:var(--wood)"></i>Tangga (naik)</span>
+        <span><i class="sw" style="background:var(--snake)"></i>Ular (turun)</span>
+      </div>
+    </div>
+    <div class="side">
+      <div class="card">
+        <div class="hud">
+          <div class="sel-chip" id="gameChip" style="flex:1;min-width:0"></div>
+        </div>
+        <div class="hud">
+          <div><p class="eyebrow">Sisa waktu</p><div class="clock" id="clock">20:00</div></div>
+          <div style="text-align:right"><p class="eyebrow">Kartu Quest</p><div class="clock" id="qcount" style="font-size:22px">0</div></div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="turn">
+          <div class="die" id="die" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          <div class="turn-who">
+            <span class="eyebrow">Giliran</span>
+            <strong id="turnName">Pemain 1</strong>
+            <button class="btn" id="rollBtn" type="button">Lempar dadu</button>
+          </div>
+        </div>
+        <p class="sr" aria-live="polite" id="live"></p>
+      </div>
+      <div class="card">
+        <p class="eyebrow">Papan skor</p>
+        <ol class="scores" id="scores"></ol>
+      </div>
+      <div class="card">
+        <p class="eyebrow">Catatan poin</p>
+        <div class="ptable-wrap">
+          <table class="ptable">
+            <thead><tr><th class="num">No</th><th>Pemain</th><th>Kejadian</th><th class="num">Poin</th><th class="num">Total</th></tr></thead>
+            <tbody id="ptable"></tbody>
+          </table>
+        </div>
+        <p class="pnote">*Poin tidak bisa kurang dari 0.</p>
+      </div>
+    </div>
+  </section>
+
+  <p class="foot">Prototipe web SDG Quest · contoh soal untuk siswa SMP · <a href="admin/">Kelola soal</a></p>
+</div>
+
+<div class="modal" id="qModal" hidden role="dialog" aria-modal="true" aria-labelledby="qText">
+  <div class="qcard">
+    <div class="qhead"><span class="k" id="qLabel">Kartu Quest · SDG 4</span><span class="who" id="qWho"></span></div>
+    <div class="timer"><i id="qBar"></i></div>
+    <div class="qbody">
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:10px">
+        <span class="eyebrow" id="qCat"></span><span class="secs" id="qSecs">30 detik</span>
+      </div>
+      <p class="qtext" id="qText"></p>
+      <div class="opts" id="qOpts"></div>
+      <div id="qFb" hidden></div>
+      <button class="btn" id="qNext" type="button" hidden>Lanjut</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal" id="endModal" hidden role="dialog" aria-modal="true" aria-labelledby="endTitle">
+  <div class="qcard end">
+    <div class="qhead"><span class="k">Waktu habis</span><span class="who" id="endCat"></span></div>
+    <div class="qbody">
+      <h2 id="endTitle">Pemenang</h2>
+      <ol class="rank" id="rank"></ol>
+      <div class="row-actions">
+        <button class="btn" id="tieBtn" type="button" hidden>Penentuan lewat SDG Quiz</button>
+        <button class="btn cat-btn" id="againBtn" type="button">Main lagi</button>
+        <button class="btn ghost" id="homeBtn" type="button">Pilih kategori lain</button>
+      </div>
+      <p class="lb-note" id="endSave" aria-live="polite"></p>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast" hidden></div>
+
+<script src="js/script.js"></script>
+</body>
+</html>

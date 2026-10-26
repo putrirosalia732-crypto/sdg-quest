@@ -1,0 +1,2318 @@
+{
+    "versi": 1,
+    "diubah": null,
+    "quest": [
+        {
+            "id": "qd70306eefa",
+            "sdg": 1,
+            "pertanyaan": "Apa tujuan utama SDG 1?",
+            "benar": "Mengakhiri kemiskinan dalam segala bentuk di mana pun",
+            "pengecoh": [
+                "Membangun lebih banyak pusat perbelanjaan",
+                "Menambah jumlah kendaraan pribadi",
+                "Mengurangi jumlah hari sekolah"
+            ],
+            "penjelasan": "SDG 1 ingin mengakhiri kemiskinan, termasuk sulitnya mendapat makanan, pendidikan, dan layanan kesehatan."
+        },
+        {
+            "id": "qe22a9c1855",
+            "sdg": 1,
+            "pertanyaan": "Manakah contoh program yang membantu mengurangi kemiskinan?",
+            "benar": "Beasiswa sekolah untuk siswa dari keluarga kurang mampu",
+            "pengecoh": [
+                "Menaikkan harga kebutuhan pokok",
+                "Melarang pedagang kecil berjualan",
+                "Membuang makanan yang masih layak"
+            ],
+            "penjelasan": "Beasiswa membuat anak tetap bersekolah, sehingga peluang mendapat pekerjaan yang lebih baik terbuka."
+        },
+        {
+            "id": "q9bfa511028",
+            "sdg": 1,
+            "pertanyaan": "Berikut ini yang termasuk kebutuhan dasar manusia adalah…",
+            "benar": "Pangan, sandang, dan papan",
+            "pengecoh": [
+                "Ponsel keluaran terbaru",
+                "Kendaraan mewah",
+                "Liburan ke luar negeri"
+            ],
+            "penjelasan": "Pangan, sandang, dan papan adalah kebutuhan dasar. Keluarga miskin sering kesulitan memenuhinya."
+        },
+        {
+            "id": "q32aa5ccbf4",
+            "sdg": 1,
+            "pertanyaan": "Sikap siswa yang membantu teman yang kurang mampu adalah…",
+            "benar": "Menyumbangkan buku dan pakaian layak pakai",
+            "pengecoh": [
+                "Mengejek teman yang seragamnya lusuh",
+                "Membuang barang yang masih bisa dipakai",
+                "Tidak peduli pada lingkungan sekitar"
+            ],
+            "penjelasan": "Berbagi barang layak pakai meringankan beban keluarga yang kurang mampu."
+        },
+        {
+            "id": "q421e0396bc",
+            "sdg": 1,
+            "pertanyaan": "Kemiskinan dapat dikurangi dengan cara…",
+            "benar": "Membuka lapangan kerja dan meningkatkan pendidikan",
+            "pengecoh": [
+                "Menaikkan harga bahan pokok",
+                "Mengurangi jumlah sekolah",
+                "Menutup pasar tradisional"
+            ],
+            "penjelasan": "Pekerjaan dan pendidikan memberi orang kesempatan untuk meningkatkan penghasilannya."
+        },
+        {
+            "id": "q12a3a7d406",
+            "sdg": 1,
+            "pertanyaan": "Garis kemiskinan digunakan untuk…",
+            "benar": "Menentukan batas penghasilan seseorang tergolong miskin atau tidak",
+            "pengecoh": [
+                "Membagi wilayah provinsi",
+                "Menghitung jumlah sekolah",
+                "Mengukur luas sawah"
+            ],
+            "penjelasan": "BPS memakai garis kemiskinan untuk menghitung jumlah penduduk miskin."
+        },
+        {
+            "id": "q4dca9aa5ab",
+            "sdg": 1,
+            "pertanyaan": "Lembaga yang mendata jumlah penduduk miskin di Indonesia adalah…",
+            "benar": "BPS (Badan Pusat Statistik)",
+            "pengecoh": [
+                "BMKG",
+                "Basarnas",
+                "KPU"
+            ],
+            "penjelasan": "Data BPS dipakai pemerintah untuk merencanakan program pengentasan kemiskinan."
+        },
+        {
+            "id": "qc4358ed183",
+            "sdg": 1,
+            "pertanyaan": "Menabung sejak kecil membantu mencegah kemiskinan karena…",
+            "benar": "Memiliki cadangan uang untuk kebutuhan mendesak",
+            "pengecoh": [
+                "Membuat uang cepat habis",
+                "Mengurangi semangat bekerja",
+                "Tidak ada manfaatnya"
+            ],
+            "penjelasan": "Tabungan melindungi keluarga saat ada kebutuhan mendadak."
+        },
+        {
+            "id": "q05a1357c92",
+            "sdg": 1,
+            "pertanyaan": "Bencana alam dapat menyebabkan kemiskinan karena…",
+            "benar": "Warga kehilangan rumah, harta, dan pekerjaan",
+            "pengecoh": [
+                "Harga barang selalu turun",
+                "Lapangan kerja bertambah",
+                "Semua warga menjadi kaya"
+            ],
+            "penjelasan": "Karena itu, kesiapsiagaan bencana juga menjadi bagian dari SDG 1."
+        },
+        {
+            "id": "qa3e0c7747c",
+            "sdg": 1,
+            "pertanyaan": "Program bantuan sosial dari pemerintah bertujuan untuk…",
+            "benar": "Membantu keluarga kurang mampu memenuhi kebutuhan dasar",
+            "pengecoh": [
+                "Membiayai liburan warga",
+                "Menambah utang warga",
+                "Mengurangi jumlah sekolah"
+            ],
+            "penjelasan": "Bantuan sosial menjadi jaring pengaman bagi keluarga yang paling membutuhkan."
+        },
+        {
+            "id": "q13d95c97af",
+            "sdg": 2,
+            "pertanyaan": "Selain menghapus kelaparan, SDG 2 juga bertujuan…",
+            "benar": "Memperbaiki gizi dan mendorong pertanian berkelanjutan",
+            "pengecoh": [
+                "Memperbanyak restoran cepat saji",
+                "Mengurangi lahan pertanian",
+                "Mengimpor semua bahan makanan"
+            ],
+            "penjelasan": "SDG 2 memastikan semua orang cukup makan dengan makanan bergizi, dan pangan tetap tersedia untuk generasi berikutnya."
+        },
+        {
+            "id": "qea902ca804",
+            "sdg": 2,
+            "pertanyaan": "Stunting pada anak terutama disebabkan oleh…",
+            "benar": "Kekurangan gizi dalam waktu lama",
+            "pengecoh": [
+                "Terlalu banyak berolahraga",
+                "Kurang tidur siang",
+                "Terlalu sering bermain gawai"
+            ],
+            "penjelasan": "Stunting terjadi karena kekurangan gizi kronis, terutama pada 1.000 hari pertama kehidupan."
+        },
+        {
+            "id": "q3d1564da18",
+            "sdg": 2,
+            "pertanyaan": "Makanan dengan gizi seimbang terdiri dari…",
+            "benar": "Makanan pokok, lauk-pauk, sayur, dan buah",
+            "pengecoh": [
+                "Hanya nasi dan kerupuk",
+                "Makanan cepat saji setiap hari",
+                "Minuman manis dan camilan"
+            ],
+            "penjelasan": "Gizi seimbang berarti tubuh mendapat karbohidrat, protein, vitamin, dan mineral dalam jumlah cukup."
+        },
+        {
+            "id": "qeb674d0d50",
+            "sdg": 2,
+            "pertanyaan": "Membuang makanan yang masih layak dimakan termasuk…",
+            "benar": "Pemborosan pangan (food waste)",
+            "pengecoh": [
+                "Ketahanan pangan",
+                "Swasembada pangan",
+                "Diversifikasi pangan"
+            ],
+            "penjelasan": "Makanan yang terbuang sebenarnya bisa mencukupi orang lain yang masih kelaparan."
+        },
+        {
+            "id": "qd573feaf55",
+            "sdg": 2,
+            "pertanyaan": "Cara siswa mendukung SDG 2 adalah…",
+            "benar": "Mengambil makanan secukupnya dan menghabiskannya",
+            "pengecoh": [
+                "Membuang bekal yang tidak disukai",
+                "Membeli jajanan secara berlebihan",
+                "Melewatkan sarapan setiap hari"
+            ],
+            "penjelasan": "Mengambil secukupnya mengurangi sisa makanan yang terbuang."
+        },
+        {
+            "id": "qd70e7f74f9",
+            "sdg": 2,
+            "pertanyaan": "Contoh makanan sumber protein adalah…",
+            "benar": "Telur, tempe, dan ikan",
+            "pengecoh": [
+                "Gula dan permen",
+                "Minyak goreng",
+                "Air putih"
+            ],
+            "penjelasan": "Protein membantu pertumbuhan dan memperbaiki sel tubuh."
+        },
+        {
+            "id": "qa5155a7497",
+            "sdg": 2,
+            "pertanyaan": "Pekarangan rumah bisa mendukung ketahanan pangan dengan cara…",
+            "benar": "Menanam sayur dan tanaman obat",
+            "pengecoh": [
+                "Dibiarkan penuh sampah",
+                "Dipakai untuk membakar sampah",
+                "Ditutup semen seluruhnya"
+            ],
+            "penjelasan": "Kebun pekarangan menyediakan bahan pangan segar untuk keluarga."
+        },
+        {
+            "id": "qe2c6d25e69",
+            "sdg": 2,
+            "pertanyaan": "Diversifikasi pangan artinya…",
+            "benar": "Menganekaragamkan makanan pokok, tidak hanya beras",
+            "pengecoh": [
+                "Hanya makan nasi",
+                "Mengimpor semua makanan",
+                "Mengurangi makan sayur"
+            ],
+            "penjelasan": "Jagung, sagu, singkong, dan ubi juga bisa menjadi makanan pokok."
+        },
+        {
+            "id": "q735445ec92",
+            "sdg": 2,
+            "pertanyaan": "Petani penting bagi SDG 2 karena…",
+            "benar": "Menghasilkan bahan pangan bagi masyarakat",
+            "pengecoh": [
+                "Membangun jalan tol",
+                "Membuat pakaian",
+                "Memproduksi kendaraan"
+            ],
+            "penjelasan": "Tanpa petani, ketersediaan pangan tidak bisa terjamin."
+        },
+        {
+            "id": "q41dd2bae1e",
+            "sdg": 2,
+            "pertanyaan": "Pupuk kompos lebih ramah lingkungan karena…",
+            "benar": "Berasal dari bahan alami dan menyuburkan tanah",
+            "pengecoh": [
+                "Mengandung plastik",
+                "Membuat tanah keras",
+                "Mencemari air sungai"
+            ],
+            "penjelasan": "Kompos dibuat dari sampah organik dan menjaga kesuburan tanah dalam jangka panjang."
+        },
+        {
+            "id": "qec3d3d25f9",
+            "sdg": 3,
+            "pertanyaan": "Kebiasaan berikut yang mendukung SDG 3 adalah…",
+            "benar": "Mencuci tangan dengan sabun sebelum makan",
+            "pengecoh": [
+                "Tidur larut malam setiap hari",
+                "Sering melewatkan sarapan",
+                "Minum minuman manis secara berlebihan"
+            ],
+            "penjelasan": "Cuci tangan pakai sabun mencegah penularan banyak penyakit, seperti diare."
+        },
+        {
+            "id": "q69bb3c4b47",
+            "sdg": 3,
+            "pertanyaan": "Apa manfaat imunisasi?",
+            "benar": "Membentuk kekebalan tubuh terhadap penyakit tertentu",
+            "pengecoh": [
+                "Membuat badan lebih tinggi",
+                "Menggantikan makanan bergizi",
+                "Menyembuhkan semua jenis penyakit"
+            ],
+            "penjelasan": "Imunisasi melatih tubuh melawan penyakit seperti campak dan polio."
+        },
+        {
+            "id": "q80a70999b7",
+            "sdg": 3,
+            "pertanyaan": "Berapa kali sebaiknya kita menyikat gigi dalam sehari?",
+            "benar": "Minimal 2 kali, pagi dan sebelum tidur",
+            "pengecoh": [
+                "Seminggu sekali",
+                "Hanya saat gigi sakit",
+                "Sebulan sekali"
+            ],
+            "penjelasan": "Menyikat gigi pagi dan sebelum tidur mencegah gigi berlubang."
+        },
+        {
+            "id": "q1d64c3be3f",
+            "sdg": 3,
+            "pertanyaan": "Penyakit demam berdarah ditularkan melalui gigitan…",
+            "benar": "Nyamuk Aedes aegypti",
+            "pengecoh": [
+                "Lalat rumah",
+                "Semut",
+                "Kecoak"
+            ],
+            "penjelasan": "Demam berdarah dicegah dengan 3M Plus: menguras, menutup, dan mendaur ulang barang bekas yang bisa menampung air."
+        },
+        {
+            "id": "q160aaae30d",
+            "sdg": 3,
+            "pertanyaan": "Kebiasaan yang baik untuk kesehatan mental adalah…",
+            "benar": "Bercerita kepada orang tepercaya saat sedang sedih",
+            "pengecoh": [
+                "Memendam semua masalah sendirian",
+                "Begadang setiap malam",
+                "Bermain gawai tanpa henti"
+            ],
+            "penjelasan": "Kesehatan mental sama pentingnya dengan kesehatan fisik. Bercerita membantu meringankan beban."
+        },
+        {
+            "id": "qcdafb5b55a",
+            "sdg": 3,
+            "pertanyaan": "Berapa lama waktu tidur yang dianjurkan untuk remaja?",
+            "benar": "Sekitar 8–10 jam setiap malam",
+            "pengecoh": [
+                "2–3 jam",
+                "4–5 jam",
+                "14–16 jam"
+            ],
+            "penjelasan": "Tidur yang cukup membantu konsentrasi belajar dan daya tahan tubuh."
+        },
+        {
+            "id": "q28349c30f6",
+            "sdg": 3,
+            "pertanyaan": "Merokok berbahaya bagi kesehatan karena…",
+            "benar": "Merusak paru-paru dan jantung",
+            "pengecoh": [
+                "Menambah stamina",
+                "Menyehatkan gigi",
+                "Membuat napas lebih segar"
+            ],
+            "penjelasan": "Asap rokok juga membahayakan orang di sekitar perokok."
+        },
+        {
+            "id": "q10f207eb10",
+            "sdg": 3,
+            "pertanyaan": "Olahraga teratur bermanfaat untuk…",
+            "benar": "Menjaga kebugaran dan daya tahan tubuh",
+            "pengecoh": [
+                "Membuat cepat lelah",
+                "Melemahkan otot",
+                "Mengganggu tidur"
+            ],
+            "penjelasan": "Aktivitas fisik setiap hari membantu tubuh tetap sehat."
+        },
+        {
+            "id": "q51b5b8930e",
+            "sdg": 3,
+            "pertanyaan": "Minuman yang paling baik untuk tubuh sehari-hari adalah…",
+            "benar": "Air putih",
+            "pengecoh": [
+                "Minuman bersoda",
+                "Minuman berenergi",
+                "Kopi kemasan manis"
+            ],
+            "penjelasan": "Minuman manis berlebihan meningkatkan risiko obesitas dan diabetes."
+        },
+        {
+            "id": "qf5eabce0f5",
+            "sdg": 3,
+            "pertanyaan": "Fasilitas kesehatan tingkat pertama yang ada di setiap kecamatan adalah…",
+            "benar": "Puskesmas",
+            "pengecoh": [
+                "Kantor pos",
+                "Terminal",
+                "Stasiun"
+            ],
+            "penjelasan": "Puskesmas melayani pemeriksaan, imunisasi, dan penyuluhan kesehatan."
+        },
+        {
+            "id": "q7a920a7dd2",
+            "sdg": 4,
+            "pertanyaan": "SDG 4 bertujuan menjamin…",
+            "benar": "Pendidikan berkualitas yang merata dan kesempatan belajar seumur hidup bagi semua",
+            "pengecoh": [
+                "Sekolah hanya untuk anak di kota besar",
+                "Semua siswa mendapat nilai sempurna",
+                "Pelajaran hanya dilakukan secara online"
+            ],
+            "penjelasan": "SDG 4 ingin semua orang mendapat pendidikan berkualitas tanpa memandang latar belakang."
+        },
+        {
+            "id": "qb7ba6b2107",
+            "sdg": 4,
+            "pertanyaan": "Manakah contoh pendidikan inklusif?",
+            "benar": "Sekolah menyediakan fasilitas agar siswa penyandang disabilitas bisa belajar bersama",
+            "pengecoh": [
+                "Sekolah hanya menerima siswa yang nilainya tinggi",
+                "Siswa penyandang disabilitas tidak boleh ikut kegiatan kelas",
+                "Buku pelajaran hanya untuk siswa yang mampu membeli"
+            ],
+            "penjelasan": "Pendidikan inklusif berarti semua anak bisa belajar bersama di sekolah yang sama."
+        },
+        {
+            "id": "qd439175bb0",
+            "sdg": 4,
+            "pertanyaan": "Kebiasaan yang mendukung SDG 4 di rumah adalah…",
+            "benar": "Membiasakan membaca buku setiap hari",
+            "pengecoh": [
+                "Membolos sekolah",
+                "Menyontek saat ujian",
+                "Tidak mengerjakan PR"
+            ],
+            "penjelasan": "Membaca setiap hari menambah pengetahuan dan melatih kemampuan berpikir."
+        },
+        {
+            "id": "q13de261181",
+            "sdg": 4,
+            "pertanyaan": "Perpustakaan sekolah mendukung SDG 4 karena…",
+            "benar": "Menyediakan sumber belajar yang bisa diakses semua siswa",
+            "pengecoh": [
+                "Menjadi tempat menyimpan barang bekas",
+                "Hanya boleh dipakai oleh guru",
+                "Menjadi tempat bermain gawai"
+            ],
+            "penjelasan": "Perpustakaan membuat buku dan ilmu bisa dinikmati semua siswa, termasuk yang tidak mampu membeli buku."
+        },
+        {
+            "id": "q3d4a4087ff",
+            "sdg": 4,
+            "pertanyaan": "Belajar sepanjang hayat artinya…",
+            "benar": "Terus belajar di segala usia, tidak hanya saat sekolah",
+            "pengecoh": [
+                "Belajar hanya sampai lulus SD",
+                "Belajar hanya saat ujian",
+                "Belajar hanya di dalam kelas"
+            ],
+            "penjelasan": "Ilmu terus berkembang, jadi kita perlu terus belajar seumur hidup."
+        },
+        {
+            "id": "q00a4a7ac41",
+            "sdg": 4,
+            "pertanyaan": "Literasi artinya…",
+            "benar": "Kemampuan membaca, menulis, dan memahami informasi",
+            "pengecoh": [
+                "Kemampuan berlari cepat",
+                "Kemampuan bernyanyi",
+                "Kemampuan memasak"
+            ],
+            "penjelasan": "Literasi adalah dasar untuk mempelajari hal lain."
+        },
+        {
+            "id": "q5aca39f93c",
+            "sdg": 4,
+            "pertanyaan": "Guru yang berkualitas penting bagi SDG 4 karena…",
+            "benar": "Membantu siswa belajar dengan baik",
+            "pengecoh": [
+                "Hanya memberi nilai",
+                "Tidak perlu mengajar",
+                "Membuat siswa takut"
+            ],
+            "penjelasan": "Salah satu target SDG 4 adalah menambah jumlah guru yang berkualitas."
+        },
+        {
+            "id": "qeb7c8b6591",
+            "sdg": 4,
+            "pertanyaan": "Belajar online bisa membuat pendidikan lebih merata jika…",
+            "benar": "Internet dan perangkat tersedia untuk semua siswa",
+            "pengecoh": [
+                "Hanya siswa kota yang punya internet",
+                "Tidak ada guru yang membimbing",
+                "Materi tidak bisa diakses"
+            ],
+            "penjelasan": "Tanpa akses yang merata, belajar online justru memperlebar kesenjangan."
+        },
+        {
+            "id": "q89bc6e43ed",
+            "sdg": 4,
+            "pertanyaan": "Contoh pendidikan nonformal adalah…",
+            "benar": "Kursus atau pelatihan keterampilan",
+            "pengecoh": [
+                "SD",
+                "SMP",
+                "SMA"
+            ],
+            "penjelasan": "Pendidikan nonformal memberi kesempatan belajar di luar sekolah."
+        },
+        {
+            "id": "qf7a3b57ebd",
+            "sdg": 4,
+            "pertanyaan": "Sikap yang tepat jika teman kesulitan memahami pelajaran adalah…",
+            "benar": "Membantunya belajar bersama",
+            "pengecoh": [
+                "Menertawakannya",
+                "Membiarkannya saja",
+                "Memberinya contekan"
+            ],
+            "penjelasan": "Belajar bersama membantu semua siswa berkembang."
+        },
+        {
+            "id": "q773118ca8b",
+            "sdg": 5,
+            "pertanyaan": "Kesetaraan gender berarti…",
+            "benar": "Laki-laki dan perempuan memiliki hak dan kesempatan yang sama",
+            "pengecoh": [
+                "Perempuan tidak perlu sekolah tinggi",
+                "Hanya laki-laki yang boleh menjadi pemimpin",
+                "Pekerjaan rumah hanya untuk perempuan"
+            ],
+            "penjelasan": "Kesetaraan gender berlaku dalam pendidikan, pekerjaan, dan kesempatan menjadi pemimpin."
+        },
+        {
+            "id": "q732ad0822b",
+            "sdg": 5,
+            "pertanyaan": "Contoh kesetaraan gender di sekolah adalah…",
+            "benar": "Pemilihan ketua OSIS terbuka bagi siswa laki-laki dan perempuan",
+            "pengecoh": [
+                "Hanya siswa laki-laki yang boleh ikut lomba sains",
+                "Siswa perempuan selalu ditugaskan piket kelas",
+                "Ekstrakurikuler futsal dilarang untuk siswa perempuan"
+            ],
+            "penjelasan": "Pemimpin dipilih karena kemampuannya, bukan jenis kelaminnya."
+        },
+        {
+            "id": "q81ba0ebc64",
+            "sdg": 5,
+            "pertanyaan": "Pekerjaan rumah tangga sebaiknya dikerjakan oleh…",
+            "benar": "Semua anggota keluarga secara bersama-sama",
+            "pengecoh": [
+                "Hanya ibu",
+                "Hanya anak perempuan",
+                "Hanya asisten rumah tangga"
+            ],
+            "penjelasan": "Berbagi tugas rumah membiasakan sikap adil di dalam keluarga."
+        },
+        {
+            "id": "qf57bd8916d",
+            "sdg": 5,
+            "pertanyaan": "Tokoh perempuan Indonesia yang memperjuangkan pendidikan bagi perempuan melalui surat-suratnya adalah…",
+            "benar": "R.A. Kartini",
+            "pengecoh": [
+                "Cut Nyak Dien",
+                "Martha Christina Tiahahu",
+                "Fatmawati"
+            ],
+            "penjelasan": "Surat-surat Kartini dibukukan dalam “Habis Gelap Terbitlah Terang” dan menginspirasi pendidikan bagi perempuan."
+        },
+        {
+            "id": "q86932ae23f",
+            "sdg": 5,
+            "pertanyaan": "Teman perempuanmu ingin mencalonkan diri menjadi ketua kelas. Sikap yang tepat adalah…",
+            "benar": "Mendukungnya jika ia mampu memimpin",
+            "pengecoh": [
+                "Melarangnya karena ia perempuan",
+                "Menertawakan keinginannya",
+                "Tidak memilihnya hanya karena ia perempuan"
+            ],
+            "penjelasan": "Setiap siswa berhak mencalonkan diri. Yang dinilai adalah kemampuannya."
+        },
+        {
+            "id": "q71ad2348a1",
+            "sdg": 5,
+            "pertanyaan": "Untuk pekerjaan yang sama, perempuan dan laki-laki sebaiknya mendapat upah…",
+            "benar": "Yang sama",
+            "pengecoh": [
+                "Perempuan lebih rendah",
+                "Laki-laki lebih rendah",
+                "Tergantung jenis kelamin"
+            ],
+            "penjelasan": "Upah ditentukan oleh pekerjaan dan kemampuan, bukan jenis kelamin."
+        },
+        {
+            "id": "q59f9f6955e",
+            "sdg": 5,
+            "pertanyaan": "Hari Kartini diperingati setiap tanggal…",
+            "benar": "21 April",
+            "pengecoh": [
+                "17 Agustus",
+                "2 Mei",
+                "10 November"
+            ],
+            "penjelasan": "Tanggal 21 April adalah hari lahir R.A. Kartini."
+        },
+        {
+            "id": "qd628ca7ccf",
+            "sdg": 5,
+            "pertanyaan": "Kekerasan terhadap perempuan bertentangan dengan SDG 5 karena…",
+            "benar": "Melanggar hak dan martabat perempuan",
+            "pengecoh": [
+                "Diperbolehkan dalam keluarga",
+                "Tidak berbahaya",
+                "Merupakan bagian dari budaya"
+            ],
+            "penjelasan": "Menghapus segala bentuk kekerasan terhadap perempuan adalah salah satu target SDG 5."
+        },
+        {
+            "id": "qf83b732c81",
+            "sdg": 5,
+            "pertanyaan": "Mainan dan cita-cita anak sebaiknya…",
+            "benar": "Tidak dibatasi karena jenis kelamin",
+            "pengecoh": [
+                "Anak perempuan hanya boleh bermain boneka",
+                "Anak laki-laki dilarang memasak",
+                "Ditentukan oleh jenis kelamin"
+            ],
+            "penjelasan": "Setiap anak berhak mengembangkan minat dan bakatnya."
+        },
+        {
+            "id": "q14b09bac34",
+            "sdg": 5,
+            "pertanyaan": "Contoh profesi yang bisa dijalani perempuan maupun laki-laki adalah…",
+            "benar": "Dokter, insinyur, dan pilot",
+            "pengecoh": [
+                "Tidak ada",
+                "Hanya guru TK",
+                "Hanya pekerjaan rumah"
+            ],
+            "penjelasan": "Semua profesi terbuka bagi siapa pun yang mampu."
+        },
+        {
+            "id": "q16ba94e832",
+            "sdg": 6,
+            "pertanyaan": "Manakah contoh sanitasi yang layak?",
+            "benar": "Memiliki toilet sehat dengan saluran pembuangan yang aman",
+            "pengecoh": [
+                "Membuang sampah ke sungai",
+                "Buang air besar di sungai",
+                "Membiarkan air limbah menggenang di halaman"
+            ],
+            "penjelasan": "Sanitasi yang buruk dapat mencemari air dan menyebarkan penyakit seperti diare."
+        },
+        {
+            "id": "q5b5dc1f8d4",
+            "sdg": 6,
+            "pertanyaan": "Cara menghemat air di rumah adalah…",
+            "benar": "Menutup keran saat menyikat gigi",
+            "pengecoh": [
+                "Membiarkan keran terbuka saat menyikat gigi",
+                "Mencuci motor setiap hari",
+                "Menyiram tanaman di siang hari yang terik"
+            ],
+            "penjelasan": "Air bersih terbatas, jadi gunakan secukupnya."
+        },
+        {
+            "id": "q9d44f70915",
+            "sdg": 6,
+            "pertanyaan": "Manakah sumber air yang layak untuk diolah menjadi air minum?",
+            "benar": "Air ledeng atau sumur yang terlindung",
+            "pengecoh": [
+                "Air selokan",
+                "Air sungai yang tercemar",
+                "Genangan air hujan"
+            ],
+            "penjelasan": "Air minum harus berasal dari sumber yang terlindung dari pencemaran, lalu dimasak sebelum diminum."
+        },
+        {
+            "id": "q5bea64b6a0",
+            "sdg": 6,
+            "pertanyaan": "Membuang sampah ke sungai dapat menyebabkan…",
+            "benar": "Pencemaran air dan banjir",
+            "pengecoh": [
+                "Air sungai menjadi lebih jernih",
+                "Ikan di sungai bertambah banyak",
+                "Sungai menjadi lebih dalam"
+            ],
+            "penjelasan": "Sampah mencemari air dan menyumbat aliran sungai sehingga memicu banjir."
+        },
+        {
+            "id": "q4ab2f465d5",
+            "sdg": 6,
+            "pertanyaan": "Lubang resapan biopori berguna untuk…",
+            "benar": "Membantu air hujan meresap ke dalam tanah",
+            "pengecoh": [
+                "Membuang sampah plastik",
+                "Menampung limbah pabrik",
+                "Menjadi tempat berkembang biak nyamuk"
+            ],
+            "penjelasan": "Biopori menambah cadangan air tanah dan mengurangi genangan."
+        },
+        {
+            "id": "qf5064aa203",
+            "sdg": 6,
+            "pertanyaan": "Air yang aman diminum adalah air yang…",
+            "benar": "Jernih, tidak berbau, tidak berasa, dan sudah dimasak",
+            "pengecoh": [
+                "Berwarna keruh",
+                "Berbau tidak sedap",
+                "Diambil dari selokan"
+            ],
+            "penjelasan": "Memasak air membunuh kuman penyebab penyakit."
+        },
+        {
+            "id": "q0a81b75241",
+            "sdg": 6,
+            "pertanyaan": "Contoh pencemaran air oleh limbah rumah tangga adalah…",
+            "benar": "Air bekas cucian yang dibuang langsung ke sungai",
+            "pengecoh": [
+                "Air hujan yang meresap ke tanah",
+                "Air sumur yang ditutup rapat",
+                "Air minum dalam galon"
+            ],
+            "penjelasan": "Deterjen dalam air cucian dapat mencemari sungai dan mengganggu kehidupan di dalamnya."
+        },
+        {
+            "id": "q2ee52ab9a7",
+            "sdg": 6,
+            "pertanyaan": "Salah satu penyakit akibat air yang kotor adalah…",
+            "benar": "Diare",
+            "pengecoh": [
+                "Rabun jauh",
+                "Patah tulang",
+                "Sakit gigi"
+            ],
+            "penjelasan": "Air bersih dan sanitasi layak mencegah penyakit diare."
+        },
+        {
+            "id": "q9f9c9f7184",
+            "sdg": 6,
+            "pertanyaan": "Menampung air hujan dalam wadah tertutup bermanfaat untuk…",
+            "benar": "Menyiram tanaman dan menghemat air bersih",
+            "pengecoh": [
+                "Membuat genangan",
+                "Tempat nyamuk bertelur",
+                "Mencemari tanah"
+            ],
+            "penjelasan": "Wadah harus tertutup agar tidak menjadi sarang nyamuk."
+        },
+        {
+            "id": "q5d37d3bc9f",
+            "sdg": 6,
+            "pertanyaan": "Cara mencuci tangan yang benar menggunakan…",
+            "benar": "Sabun dan air mengalir",
+            "pengecoh": [
+                "Air di baskom yang dipakai bergantian",
+                "Sedikit air tanpa sabun",
+                "Lap kain saja"
+            ],
+            "penjelasan": "Air mengalir membawa kotoran dan kuman pergi dari tangan."
+        },
+        {
+            "id": "qd99e739b7b",
+            "sdg": 7,
+            "pertanyaan": "Manakah yang termasuk energi terbarukan?",
+            "benar": "Energi matahari (tenaga surya)",
+            "pengecoh": [
+                "Batu bara",
+                "Minyak bumi",
+                "Gas alam"
+            ],
+            "penjelasan": "Energi matahari tidak akan habis, sedangkan bahan bakar fosil terbatas dan menghasilkan emisi."
+        },
+        {
+            "id": "q1a5880cfe7",
+            "sdg": 7,
+            "pertanyaan": "Cara sederhana menghemat energi listrik adalah…",
+            "benar": "Mematikan lampu dan peralatan listrik saat tidak digunakan",
+            "pengecoh": [
+                "Menyalakan lampu di siang hari",
+                "Membiarkan charger tetap tercolok",
+                "Menyalakan AC sambil membuka jendela"
+            ],
+            "penjelasan": "Hemat listrik juga mengurangi emisi, karena banyak pembangkit listrik masih memakai batu bara."
+        },
+        {
+            "id": "qd979d3731d",
+            "sdg": 7,
+            "pertanyaan": "Pembangkit listrik yang memanfaatkan aliran air disebut…",
+            "benar": "PLTA",
+            "pengecoh": [
+                "PLTU",
+                "PLTD",
+                "PLTN"
+            ],
+            "penjelasan": "PLTA (Pembangkit Listrik Tenaga Air) memakai energi terbarukan dari aliran air."
+        },
+        {
+            "id": "q4ef8e4b0ae",
+            "sdg": 7,
+            "pertanyaan": "Jenis lampu yang paling hemat energi adalah…",
+            "benar": "Lampu LED",
+            "pengecoh": [
+                "Lampu pijar",
+                "Lilin",
+                "Obor"
+            ],
+            "penjelasan": "Lampu LED memakai listrik lebih sedikit untuk menghasilkan cahaya yang sama terang."
+        },
+        {
+            "id": "qba8ab2239c",
+            "sdg": 7,
+            "pertanyaan": "Panel surya mengubah … menjadi energi listrik.",
+            "benar": "Cahaya matahari",
+            "pengecoh": [
+                "Angin",
+                "Batu bara",
+                "Minyak bumi"
+            ],
+            "penjelasan": "Panel surya menghasilkan listrik tanpa asap dan cocok untuk Indonesia yang mendapat sinar matahari sepanjang tahun."
+        },
+        {
+            "id": "q6b28746610",
+            "sdg": 7,
+            "pertanyaan": "Bahan bakar fosil disebut tidak terbarukan karena…",
+            "benar": "Butuh jutaan tahun untuk terbentuk kembali",
+            "pengecoh": [
+                "Bisa dibuat setiap hari",
+                "Berasal dari cahaya matahari",
+                "Tidak pernah habis"
+            ],
+            "penjelasan": "Bahan bakar fosil terbentuk dari sisa makhluk hidup selama jutaan tahun."
+        },
+        {
+            "id": "qa17b189eb7",
+            "sdg": 7,
+            "pertanyaan": "Pembangkit listrik tenaga angin disebut…",
+            "benar": "PLTB (Pembangkit Listrik Tenaga Bayu)",
+            "pengecoh": [
+                "PLTU",
+                "PLTD",
+                "PLTGU"
+            ],
+            "penjelasan": "Kincir angin mengubah energi gerak angin menjadi listrik."
+        },
+        {
+            "id": "q76d35a5368",
+            "sdg": 7,
+            "pertanyaan": "Energi dari panas di dalam bumi disebut…",
+            "benar": "Energi panas bumi (geotermal)",
+            "pengecoh": [
+                "Energi air",
+                "Energi nuklir",
+                "Energi biomassa"
+            ],
+            "penjelasan": "Indonesia memiliki potensi panas bumi yang besar karena banyak gunung api."
+        },
+        {
+            "id": "qd15abb711c",
+            "sdg": 7,
+            "pertanyaan": "Contoh energi biomassa adalah…",
+            "benar": "Biogas dari kotoran ternak",
+            "pengecoh": [
+                "Batu bara",
+                "Minyak bumi",
+                "Gas alam"
+            ],
+            "penjelasan": "Biogas dapat dipakai untuk memasak dan mengurangi limbah peternakan."
+        },
+        {
+            "id": "qc6c35167c8",
+            "sdg": 7,
+            "pertanyaan": "Kendaraan listrik lebih ramah lingkungan jika…",
+            "benar": "Listriknya berasal dari energi terbarukan",
+            "pengecoh": [
+                "Diisi dengan bensin",
+                "Dipakai tanpa henti",
+                "Tidak pernah dirawat"
+            ],
+            "penjelasan": "Jika listriknya dari batu bara, emisinya hanya berpindah ke pembangkit listrik."
+        },
+        {
+            "id": "q4ff6602138",
+            "sdg": 8,
+            "pertanyaan": "Manakah yang bertentangan dengan SDG 8?",
+            "benar": "Mempekerjakan anak di bawah umur hingga putus sekolah",
+            "pengecoh": [
+                "Memberi upah yang adil kepada pekerja",
+                "Menyediakan alat keselamatan kerja",
+                "Membuka lapangan kerja baru"
+            ],
+            "penjelasan": "Pekerja anak kehilangan hak untuk belajar dan bermain."
+        },
+        {
+            "id": "qd4f53c2a46",
+            "sdg": 8,
+            "pertanyaan": "Mengapa UMKM penting bagi SDG 8?",
+            "benar": "Karena UMKM membuka lapangan kerja dan menggerakkan ekonomi lokal",
+            "pengecoh": [
+                "Karena UMKM tidak perlu membayar pekerja",
+                "Karena UMKM hanya ada di kota besar",
+                "Karena UMKM mengurangi jumlah pekerjaan"
+            ],
+            "penjelasan": "UMKM menyerap banyak tenaga kerja di Indonesia."
+        },
+        {
+            "id": "q44017d2e48",
+            "sdg": 8,
+            "pertanyaan": "Ciri pekerjaan yang layak adalah…",
+            "benar": "Upah adil, tempat kerja aman, dan hak pekerja dihormati",
+            "pengecoh": [
+                "Jam kerja tanpa batas",
+                "Tidak ada alat keselamatan",
+                "Upah di bawah ketentuan"
+            ],
+            "penjelasan": "Pekerjaan layak membuat pekerja sejahtera dan aman."
+        },
+        {
+            "id": "q7a7236310e",
+            "sdg": 8,
+            "pertanyaan": "Wirausaha berperan dalam SDG 8 karena…",
+            "benar": "Menciptakan lapangan kerja baru",
+            "pengecoh": [
+                "Menambah jumlah pengangguran",
+                "Mengurangi jumlah pekerjaan",
+                "Menghambat pertumbuhan ekonomi"
+            ],
+            "penjelasan": "Setiap usaha baru membuka kesempatan kerja bagi orang lain."
+        },
+        {
+            "id": "q1463cd8be8",
+            "sdg": 8,
+            "pertanyaan": "Membeli produk lokal dapat…",
+            "benar": "Membantu pelaku usaha dalam negeri berkembang",
+            "pengecoh": [
+                "Merugikan UMKM",
+                "Mengurangi lapangan kerja",
+                "Menutup usaha kecil"
+            ],
+            "penjelasan": "Uang yang dibelanjakan untuk produk lokal berputar di dalam negeri."
+        },
+        {
+            "id": "q514a1c7e74",
+            "sdg": 8,
+            "pertanyaan": "Pengangguran adalah…",
+            "benar": "Orang usia kerja yang belum memiliki pekerjaan",
+            "pengecoh": [
+                "Siswa yang masih sekolah SD",
+                "Orang yang sudah pensiun",
+                "Orang yang bekerja lembur"
+            ],
+            "penjelasan": "Mengurangi pengangguran adalah salah satu tujuan SDG 8."
+        },
+        {
+            "id": "q72dc284176",
+            "sdg": 8,
+            "pertanyaan": "Alat pelindung diri (APD) di tempat kerja berguna untuk…",
+            "benar": "Melindungi pekerja dari kecelakaan",
+            "pengecoh": [
+                "Hiasan seragam",
+                "Memperlambat pekerjaan",
+                "Mengurangi upah"
+            ],
+            "penjelasan": "Contoh APD adalah helm, sarung tangan, dan masker."
+        },
+        {
+            "id": "qea5bb593e5",
+            "sdg": 8,
+            "pertanyaan": "Pariwisata dapat mendukung SDG 8 karena…",
+            "benar": "Membuka lapangan kerja bagi warga sekitar",
+            "pengecoh": [
+                "Merusak ekonomi lokal",
+                "Menutup usaha warga",
+                "Mengurangi pendapatan daerah"
+            ],
+            "penjelasan": "Pariwisata yang dikelola baik menggerakkan usaha kuliner, kerajinan, dan penginapan."
+        },
+        {
+            "id": "qdad69bec9f",
+            "sdg": 8,
+            "pertanyaan": "Keterampilan digital penting bagi pekerjaan masa depan karena…",
+            "benar": "Banyak pekerjaan kini menggunakan teknologi",
+            "pengecoh": [
+                "Teknologi tidak dipakai lagi",
+                "Pekerjaan tidak butuh keterampilan",
+                "Teknologi hanya untuk bermain gim"
+            ],
+            "penjelasan": "Keterampilan digital membuka peluang kerja yang lebih luas."
+        },
+        {
+            "id": "qe8b0f500c1",
+            "sdg": 8,
+            "pertanyaan": "Upah minimum ditetapkan agar…",
+            "benar": "Pekerja mendapat penghasilan yang layak",
+            "pengecoh": [
+                "Perusahaan membayar sesukanya",
+                "Pekerja tidak digaji",
+                "Harga barang turun"
+            ],
+            "penjelasan": "Upah minimum melindungi pekerja dari bayaran yang terlalu rendah."
+        },
+        {
+            "id": "qea62b1c3f9",
+            "sdg": 9,
+            "pertanyaan": "Manakah contoh infrastruktur?",
+            "benar": "Jalan, jembatan, dan jaringan internet",
+            "pengecoh": [
+                "Buku tulis dan pensil",
+                "Pakaian dan sepatu",
+                "Makanan dan minuman"
+            ],
+            "penjelasan": "Infrastruktur adalah fasilitas dasar yang memudahkan orang bekerja, bersekolah, dan berdagang."
+        },
+        {
+            "id": "qa7d90976d4",
+            "sdg": 9,
+            "pertanyaan": "Apa yang dimaksud dengan inovasi?",
+            "benar": "Menciptakan ide, cara, atau produk baru yang lebih baik",
+            "pengecoh": [
+                "Meniru karya orang lain tanpa izin",
+                "Menggunakan cara lama terus-menerus",
+                "Membuang barang yang sudah rusak"
+            ],
+            "penjelasan": "Inovasi membantu menyelesaikan masalah dengan cara yang lebih baik."
+        },
+        {
+            "id": "qcb7dcdea54",
+            "sdg": 9,
+            "pertanyaan": "Contoh inovasi teknologi dalam pembayaran adalah…",
+            "benar": "Pembayaran digital dengan QRIS",
+            "pengecoh": [
+                "Menukar barang dengan barang",
+                "Menyimpan uang di bawah kasur",
+                "Mencatat utang di buku"
+            ],
+            "penjelasan": "QRIS memudahkan pembeli dan penjual bertransaksi tanpa uang tunai."
+        },
+        {
+            "id": "qad5e31aa1e",
+            "sdg": 9,
+            "pertanyaan": "Akses internet yang merata penting agar…",
+            "benar": "Semua daerah bisa belajar dan berusaha secara online",
+            "pengecoh": [
+                "Hanya kota besar yang maju",
+                "Siswa tidak perlu belajar",
+                "Desa tertinggal semakin jauh"
+            ],
+            "penjelasan": "Internet yang merata membuka kesempatan yang sama bagi desa dan kota."
+        },
+        {
+            "id": "q5a8c109e26",
+            "sdg": 9,
+            "pertanyaan": "Industri yang ramah lingkungan sebaiknya…",
+            "benar": "Mengolah limbah sebelum dibuang",
+            "pengecoh": [
+                "Membuang limbah ke sungai",
+                "Membakar sampah sembarangan",
+                "Menebang hutan tanpa izin"
+            ],
+            "penjelasan": "Limbah yang diolah tidak mencemari air, tanah, dan udara."
+        },
+        {
+            "id": "q4ebae5d478",
+            "sdg": 9,
+            "pertanyaan": "Contoh inovasi untuk mengatasi sampah plastik adalah…",
+            "benar": "Mengolah plastik bekas menjadi paving block",
+            "pengecoh": [
+                "Membuang plastik ke laut",
+                "Menimbun plastik di sungai",
+                "Membakar plastik di jalan"
+            ],
+            "penjelasan": "Inovasi daur ulang mengubah sampah menjadi barang yang berguna."
+        },
+        {
+            "id": "qa00cde84ae",
+            "sdg": 9,
+            "pertanyaan": "Jalan tol dan pelabuhan termasuk…",
+            "benar": "Infrastruktur transportasi",
+            "pengecoh": [
+                "Produk pertanian",
+                "Kesenian daerah",
+                "Makanan tradisional"
+            ],
+            "penjelasan": "Infrastruktur transportasi memperlancar distribusi barang dan perjalanan orang."
+        },
+        {
+            "id": "q25edc87c13",
+            "sdg": 9,
+            "pertanyaan": "Startup teknologi adalah…",
+            "benar": "Perusahaan rintisan yang mengembangkan produk berbasis teknologi",
+            "pengecoh": [
+                "Perusahaan yang berumur ratusan tahun",
+                "Toko kelontong biasa",
+                "Lembaga pemerintah"
+            ],
+            "penjelasan": "Banyak startup lahir dari ide untuk menyelesaikan masalah sehari-hari."
+        },
+        {
+            "id": "qfdb41c8d23",
+            "sdg": 9,
+            "pertanyaan": "Penelitian dan pengembangan (riset) penting karena…",
+            "benar": "Menghasilkan pengetahuan dan inovasi baru",
+            "pengecoh": [
+                "Tidak ada gunanya",
+                "Hanya menghabiskan uang",
+                "Menghambat kemajuan"
+            ],
+            "penjelasan": "SDG 9 mendorong negara meningkatkan riset dan jumlah penelitinya."
+        },
+        {
+            "id": "qb06ae6f99d",
+            "sdg": 9,
+            "pertanyaan": "Jaringan listrik ke desa terpencil penting agar…",
+            "benar": "Warga desa bisa belajar dan berusaha lebih baik",
+            "pengecoh": [
+                "Desa semakin tertinggal",
+                "Warga tidak bisa bekerja",
+                "Sekolah ditutup"
+            ],
+            "penjelasan": "Listrik memungkinkan anak belajar di malam hari dan warga menjalankan usaha."
+        },
+        {
+            "id": "qf1a7fd73ea",
+            "sdg": 10,
+            "pertanyaan": "SDG 10 bertujuan untuk…",
+            "benar": "Mengurangi kesenjangan di dalam dan antarnegara",
+            "pengecoh": [
+                "Membuat orang kaya semakin kaya",
+                "Menutup akses pendidikan bagi daerah terpencil",
+                "Membedakan perlakuan berdasarkan suku"
+            ],
+            "penjelasan": "SDG 10 ingin semua orang mendapat kesempatan yang adil."
+        },
+        {
+            "id": "q437d01cc66",
+            "sdg": 10,
+            "pertanyaan": "Sikap yang mendukung SDG 10 di sekolah adalah…",
+            "benar": "Berteman tanpa membeda-bedakan suku, agama, atau status ekonomi",
+            "pengecoh": [
+                "Hanya berteman dengan yang berasal dari daerah yang sama",
+                "Mengejek teman karena kondisi ekonominya",
+                "Menolak teman yang berbeda agama dalam kelompok belajar"
+            ],
+            "penjelasan": "Setiap orang berhak diperlakukan adil apa pun latar belakangnya."
+        },
+        {
+            "id": "qa91c0fe6a4",
+            "sdg": 10,
+            "pertanyaan": "Fasilitas yang membantu penyandang disabilitas di tempat umum adalah…",
+            "benar": "Jalur landai (ramp) untuk kursi roda",
+            "pengecoh": [
+                "Tangga yang curam",
+                "Pintu yang sempit",
+                "Jalan yang berlubang"
+            ],
+            "penjelasan": "Fasilitas ramah disabilitas membuat semua orang bisa beraktivitas dengan mandiri."
+        },
+        {
+            "id": "q477edb1892",
+            "sdg": 10,
+            "pertanyaan": "Manakah contoh diskriminasi?",
+            "benar": "Menolak seseorang karena suku atau agamanya",
+            "pengecoh": [
+                "Membantu teman belajar",
+                "Berbagi bekal dengan teman",
+                "Bekerja sama dalam kelompok"
+            ],
+            "penjelasan": "Diskriminasi memperlebar kesenjangan dan bertentangan dengan SDG 10."
+        },
+        {
+            "id": "q9e2a1088ff",
+            "sdg": 10,
+            "pertanyaan": "Semboyan Bhinneka Tunggal Ika mendukung SDG 10 karena mengajarkan…",
+            "benar": "Menghargai perbedaan dan hidup rukun",
+            "pengecoh": [
+                "Persaingan antarsuku",
+                "Membeda-bedakan teman",
+                "Hanya bergaul dengan satu kelompok"
+            ],
+            "penjelasan": "Bhinneka Tunggal Ika berarti berbeda-beda tetapi tetap satu."
+        },
+        {
+            "id": "qdd6698bb65",
+            "sdg": 10,
+            "pertanyaan": "Contoh kesenjangan di Indonesia adalah…",
+            "benar": "Perbedaan akses pendidikan antara kota dan desa terpencil",
+            "pengecoh": [
+                "Semua daerah punya fasilitas yang sama",
+                "Semua orang berpenghasilan sama",
+                "Tidak ada perbedaan apa pun"
+            ],
+            "penjelasan": "Mengurangi kesenjangan antardaerah adalah bagian dari SDG 10."
+        },
+        {
+            "id": "qc13dd26198",
+            "sdg": 10,
+            "pertanyaan": "Bahasa isyarat membantu…",
+            "benar": "Teman tuli berkomunikasi",
+            "pengecoh": [
+                "Teman tunanetra membaca",
+                "Orang berlari lebih cepat",
+                "Mengganti bahasa Indonesia"
+            ],
+            "penjelasan": "Belajar bahasa isyarat membuat kita bisa berkomunikasi dengan teman tuli."
+        },
+        {
+            "id": "q9e4bf815e8",
+            "sdg": 10,
+            "pertanyaan": "Huruf Braille digunakan oleh…",
+            "benar": "Penyandang tunanetra untuk membaca",
+            "pengecoh": [
+                "Penyandang tunarungu untuk mendengar",
+                "Pilot pesawat",
+                "Pemain musik"
+            ],
+            "penjelasan": "Braille berupa titik timbul yang dibaca dengan ujung jari."
+        },
+        {
+            "id": "q156a2cb931",
+            "sdg": 10,
+            "pertanyaan": "Pajak dapat membantu mengurangi kesenjangan jika…",
+            "benar": "Digunakan untuk layanan publik bagi semua warga",
+            "pengecoh": [
+                "Disimpan untuk orang kaya",
+                "Tidak dipakai sama sekali",
+                "Dibagikan ke satu kelompok saja"
+            ],
+            "penjelasan": "Pajak membiayai sekolah, puskesmas, dan jalan yang dipakai semua orang."
+        },
+        {
+            "id": "q22dce609f9",
+            "sdg": 10,
+            "pertanyaan": "Sikap yang tepat kepada teman pindahan dari daerah lain adalah…",
+            "benar": "Menyambut dan mengajaknya berteman",
+            "pengecoh": [
+                "Mengucilkannya",
+                "Menertawakan logatnya",
+                "Tidak mau satu kelompok dengannya"
+            ],
+            "penjelasan": "Menerima perbedaan membuat semua orang merasa dihargai."
+        },
+        {
+            "id": "qc7d069b44e",
+            "sdg": 11,
+            "pertanyaan": "Menggunakan transportasi umum mendukung kota berkelanjutan karena…",
+            "benar": "Mengurangi kemacetan dan polusi udara",
+            "pengecoh": [
+                "Membuat jalan semakin padat",
+                "Menambah jumlah kendaraan pribadi",
+                "Membutuhkan lebih banyak lahan parkir"
+            ],
+            "penjelasan": "Satu bus dapat mengangkut puluhan orang sekaligus."
+        },
+        {
+            "id": "qad18731295",
+            "sdg": 11,
+            "pertanyaan": "Apa fungsi ruang terbuka hijau (RTH) di kota?",
+            "benar": "Menjadi daerah resapan air dan menyerap polusi udara",
+            "pengecoh": [
+                "Tempat membuang sampah",
+                "Lahan untuk membangun pabrik",
+                "Tempat parkir kendaraan"
+            ],
+            "penjelasan": "RTH mengurangi risiko banjir dan menjadi tempat warga beraktivitas."
+        },
+        {
+            "id": "qcec0e6551e",
+            "sdg": 11,
+            "pertanyaan": "Salah satu penyebab banjir di kota adalah…",
+            "benar": "Sampah yang menyumbat saluran air",
+            "pengecoh": [
+                "Banyaknya taman kota",
+                "Pohon di pinggir jalan",
+                "Sumur resapan"
+            ],
+            "penjelasan": "Saluran air yang tersumbat membuat air hujan meluap ke jalan dan rumah."
+        },
+        {
+            "id": "q93ead5b6c7",
+            "sdg": 11,
+            "pertanyaan": "Contoh permukiman yang berkelanjutan adalah…",
+            "benar": "Lingkungan dengan pengelolaan sampah dan ruang hijau yang baik",
+            "pengecoh": [
+                "Permukiman kumuh di bantaran sungai",
+                "Kawasan tanpa saluran air",
+                "Lingkungan yang penuh sampah"
+            ],
+            "penjelasan": "Permukiman berkelanjutan aman, sehat, dan nyaman ditinggali."
+        },
+        {
+            "id": "qe37917e11f",
+            "sdg": 11,
+            "pertanyaan": "Mengapa bangunan bersejarah perlu dilestarikan?",
+            "benar": "Karena merupakan warisan budaya yang perlu dijaga",
+            "pengecoh": [
+                "Agar bisa segera dibongkar",
+                "Karena tidak memiliki nilai apa pun",
+                "Agar dijadikan tempat pembuangan sampah"
+            ],
+            "penjelasan": "Melindungi warisan budaya adalah salah satu target SDG 11."
+        },
+        {
+            "id": "qc5602f97e4",
+            "sdg": 11,
+            "pertanyaan": "Contoh upaya mencegah banjir di kota adalah…",
+            "benar": "Membersihkan saluran air secara rutin",
+            "pengecoh": [
+                "Membuang sampah ke got",
+                "Menutup semua tanah dengan semen",
+                "Menebang pohon di bantaran sungai"
+            ],
+            "penjelasan": "Saluran yang bersih membuat air hujan mengalir lancar."
+        },
+        {
+            "id": "q29c544c0e5",
+            "sdg": 11,
+            "pertanyaan": "Trotoar penting agar…",
+            "benar": "Pejalan kaki aman dan nyaman",
+            "pengecoh": [
+                "Bisa dipakai parkir motor",
+                "Menjadi jalur balap",
+                "Bisa ditutup bangunan"
+            ],
+            "penjelasan": "Kota berkelanjutan memberi ruang aman bagi pejalan kaki."
+        },
+        {
+            "id": "q1d207f3afe",
+            "sdg": 11,
+            "pertanyaan": "Polusi udara di kota sebagian besar berasal dari…",
+            "benar": "Asap kendaraan bermotor dan industri",
+            "pengecoh": [
+                "Pepohonan",
+                "Taman kota",
+                "Air hujan"
+            ],
+            "penjelasan": "Transportasi umum dan ruang hijau membantu mengurangi polusi udara."
+        },
+        {
+            "id": "q9bc1f6b663",
+            "sdg": 11,
+            "pertanyaan": "Bank sampah di lingkungan warga bermanfaat untuk…",
+            "benar": "Mengelola sampah sekaligus menambah penghasilan warga",
+            "pengecoh": [
+                "Menimbun sampah di rumah",
+                "Membakar sampah bersama-sama",
+                "Membuang sampah ke sungai"
+            ],
+            "penjelasan": "Sampah yang dipilah bisa ditabung dan dijual kembali."
+        },
+        {
+            "id": "qb26ade3f91",
+            "sdg": 11,
+            "pertanyaan": "Rumah yang layak huni memiliki…",
+            "benar": "Ventilasi, air bersih, dan sanitasi yang baik",
+            "pengecoh": [
+                "Tidak ada jendela",
+                "Lantai tanah yang lembap",
+                "Tidak ada toilet"
+            ],
+            "penjelasan": "SDG 11 menargetkan semua orang memiliki tempat tinggal yang layak dan aman."
+        },
+        {
+            "id": "q723483283b",
+            "sdg": 12,
+            "pertanyaan": "Apa kepanjangan dari 3R dalam pengelolaan sampah?",
+            "benar": "Reduce, Reuse, Recycle",
+            "pengecoh": [
+                "Rapi, Resik, Rajin",
+                "Read, Write, Repeat",
+                "Repair, Return, Remove"
+            ],
+            "penjelasan": "Artinya mengurangi, menggunakan kembali, dan mendaur ulang sampah."
+        },
+        {
+            "id": "qfae5182e7d",
+            "sdg": 12,
+            "pertanyaan": "Manakah yang termasuk sampah organik?",
+            "benar": "Kulit pisang",
+            "pengecoh": [
+                "Botol plastik",
+                "Baterai bekas",
+                "Kaleng minuman"
+            ],
+            "penjelasan": "Sampah organik mudah terurai dan bisa diolah menjadi kompos."
+        },
+        {
+            "id": "q7201cd6015",
+            "sdg": 12,
+            "pertanyaan": "Mengolah sampah organik menjadi pupuk disebut…",
+            "benar": "Pengomposan",
+            "pengecoh": [
+                "Pembakaran",
+                "Penimbunan",
+                "Pencemaran"
+            ],
+            "penjelasan": "Kompos menyuburkan tanah dan mengurangi sampah di TPA."
+        },
+        {
+            "id": "q5e110afa4e",
+            "sdg": 12,
+            "pertanyaan": "Baterai bekas termasuk jenis sampah…",
+            "benar": "B3 (bahan berbahaya dan beracun)",
+            "pengecoh": [
+                "Organik",
+                "Kertas",
+                "Sisa makanan"
+            ],
+            "penjelasan": "Sampah B3 harus dipisahkan karena bisa mencemari tanah dan air."
+        },
+        {
+            "id": "q5b46a55382",
+            "sdg": 12,
+            "pertanyaan": "Contoh konsumsi yang bertanggung jawab adalah…",
+            "benar": "Membeli barang sesuai kebutuhan",
+            "pengecoh": [
+                "Membeli barang yang sedang tren walau tidak perlu",
+                "Membuang barang yang masih bagus",
+                "Memakai plastik sekali pakai sebanyak-banyaknya"
+            ],
+            "penjelasan": "Belanja sesuai kebutuhan mengurangi sampah dan pemborosan sumber daya."
+        },
+        {
+            "id": "qd5de1b8c70",
+            "sdg": 12,
+            "pertanyaan": "Contoh reduce (mengurangi sampah) adalah…",
+            "benar": "Membawa botol minum sendiri",
+            "pengecoh": [
+                "Membeli air kemasan setiap hari",
+                "Memakai sedotan plastik setiap kali minum",
+                "Meminta kantong plastik berlapis-lapis"
+            ],
+            "penjelasan": "Botol minum yang dipakai berulang mengurangi sampah botol plastik."
+        },
+        {
+            "id": "q16c08bc7aa",
+            "sdg": 12,
+            "pertanyaan": "Label ramah lingkungan pada produk menunjukkan bahwa…",
+            "benar": "Produk dibuat dengan dampak lingkungan yang lebih kecil",
+            "pengecoh": [
+                "Produk pasti murah",
+                "Produk sudah kedaluwarsa",
+                "Produk hanya untuk anak-anak"
+            ],
+            "penjelasan": "Memilih produk ramah lingkungan mendorong produsen bertanggung jawab."
+        },
+        {
+            "id": "q07f54610ad",
+            "sdg": 12,
+            "pertanyaan": "Tren fast fashion berdampak buruk karena…",
+            "benar": "Menghasilkan banyak limbah pakaian",
+            "pengecoh": [
+                "Membuat pakaian lebih awet",
+                "Mengurangi sampah",
+                "Menghemat air"
+            ],
+            "penjelasan": "Membeli pakaian secukupnya dan merawatnya mengurangi limbah tekstil."
+        },
+        {
+            "id": "q9e023a1765",
+            "sdg": 12,
+            "pertanyaan": "Ponsel rusak dan sampah elektronik lainnya sebaiknya…",
+            "benar": "Diserahkan ke tempat pengumpulan khusus sampah elektronik",
+            "pengecoh": [
+                "Dibakar",
+                "Dibuang ke sungai",
+                "Dicampur dengan sampah dapur"
+            ],
+            "penjelasan": "Sampah elektronik mengandung bahan berbahaya yang harus diolah secara khusus."
+        },
+        {
+            "id": "qc590759f1c",
+            "sdg": 12,
+            "pertanyaan": "Memperbaiki barang yang rusak daripada langsung membuangnya termasuk…",
+            "benar": "Konsumsi yang bertanggung jawab",
+            "pengecoh": [
+                "Pemborosan",
+                "Pencemaran",
+                "Penimbunan"
+            ],
+            "penjelasan": "Barang yang dipakai lebih lama berarti lebih sedikit sampah."
+        },
+        {
+            "id": "q693dd2fb4a",
+            "sdg": 13,
+            "pertanyaan": "Gas rumah kaca yang paling banyak dihasilkan dari pembakaran bahan bakar fosil adalah…",
+            "benar": "Karbon dioksida (CO₂)",
+            "pengecoh": [
+                "Oksigen (O₂)",
+                "Nitrogen (N₂)",
+                "Helium (He)"
+            ],
+            "penjelasan": "CO₂ memerangkap panas di atmosfer sehingga suhu bumi meningkat."
+        },
+        {
+            "id": "qe4c1adccd6",
+            "sdg": 13,
+            "pertanyaan": "Tindakan sehari-hari yang membantu mengurangi perubahan iklim adalah…",
+            "benar": "Berjalan kaki atau bersepeda untuk jarak dekat",
+            "pengecoh": [
+                "Diantar motor untuk jarak 200 meter",
+                "Membakar sampah di halaman",
+                "Membiarkan mesin kendaraan menyala saat parkir"
+            ],
+            "penjelasan": "Berjalan kaki dan bersepeda tidak menghasilkan emisi."
+        },
+        {
+            "id": "q06430a1891",
+            "sdg": 13,
+            "pertanyaan": "Salah satu dampak pemanasan global adalah…",
+            "benar": "Es di kutub mencair dan permukaan laut naik",
+            "pengecoh": [
+                "Suhu bumi menurun",
+                "Hutan bertambah luas",
+                "Musim menjadi selalu sama"
+            ],
+            "penjelasan": "Naiknya permukaan laut mengancam daerah pesisir dan pulau kecil."
+        },
+        {
+            "id": "q57b15208a7",
+            "sdg": 13,
+            "pertanyaan": "Efek rumah kaca terjadi karena…",
+            "benar": "Gas di atmosfer memerangkap panas matahari",
+            "pengecoh": [
+                "Banyak gedung berdinding kaca",
+                "Bumi semakin jauh dari matahari",
+                "Bulan menutupi matahari"
+            ],
+            "penjelasan": "Semakin banyak gas rumah kaca, semakin banyak panas yang terperangkap."
+        },
+        {
+            "id": "qd9bc7b65ff",
+            "sdg": 13,
+            "pertanyaan": "Menanam pohon membantu mengatasi perubahan iklim karena…",
+            "benar": "Pohon menyerap karbon dioksida",
+            "pengecoh": [
+                "Pohon menghasilkan asap",
+                "Pohon menaikkan suhu bumi",
+                "Pohon menghasilkan plastik"
+            ],
+            "penjelasan": "Pohon menyerap CO₂ dan menghasilkan oksigen."
+        },
+        {
+            "id": "q1f8c7dc668",
+            "sdg": 13,
+            "pertanyaan": "Lembaga di Indonesia yang memberi informasi cuaca dan iklim adalah…",
+            "benar": "BMKG",
+            "pengecoh": [
+                "BPS",
+                "KPK",
+                "BNN"
+            ],
+            "penjelasan": "BMKG memantau cuaca, iklim, dan gempa bumi."
+        },
+        {
+            "id": "qd8b145546c",
+            "sdg": 13,
+            "pertanyaan": "Contoh bencana yang makin sering terjadi akibat perubahan iklim adalah…",
+            "benar": "Banjir dan kekeringan",
+            "pengecoh": [
+                "Gerhana matahari",
+                "Gempa bumi",
+                "Pergantian siang dan malam"
+            ],
+            "penjelasan": "Perubahan iklim membuat cuaca ekstrem semakin sering."
+        },
+        {
+            "id": "q64a3a5ec65",
+            "sdg": 13,
+            "pertanyaan": "Mematikan lampu saat tidak dipakai membantu iklim karena…",
+            "benar": "Mengurangi emisi dari pembangkit listrik",
+            "pengecoh": [
+                "Membuat bumi lebih panas",
+                "Menambah polusi",
+                "Tidak berpengaruh apa pun"
+            ],
+            "penjelasan": "Sebagian besar listrik masih dihasilkan dari bahan bakar fosil."
+        },
+        {
+            "id": "q58a46bb2ed",
+            "sdg": 13,
+            "pertanyaan": "Perjanjian internasional tahun 2015 untuk menahan pemanasan global adalah…",
+            "benar": "Perjanjian Paris",
+            "pengecoh": [
+                "Perjanjian Linggarjati",
+                "Sumpah Pemuda",
+                "Konferensi Asia Afrika"
+            ],
+            "penjelasan": "Negara-negara sepakat menahan kenaikan suhu bumi jauh di bawah 2°C."
+        },
+        {
+            "id": "q0eb9d5adab",
+            "sdg": 13,
+            "pertanyaan": "Membakar sampah tidak dianjurkan karena…",
+            "benar": "Menghasilkan asap dan gas yang mencemari udara",
+            "pengecoh": [
+                "Membuat udara segar",
+                "Menyuburkan tanah",
+                "Mengurangi emisi"
+            ],
+            "penjelasan": "Sampah sebaiknya dipilah, didaur ulang, atau dikomposkan."
+        },
+        {
+            "id": "q6539ae1a5a",
+            "sdg": 14,
+            "pertanyaan": "Mengapa sampah plastik di laut berbahaya?",
+            "benar": "Hewan laut dapat memakannya atau terjerat",
+            "pengecoh": [
+                "Membuat air laut menjadi tawar",
+                "Menambah jumlah ikan",
+                "Membuat terumbu karang tumbuh lebih cepat"
+            ],
+            "penjelasan": "Plastik juga terurai menjadi mikroplastik yang masuk ke rantai makanan."
+        },
+        {
+            "id": "qd9602de9c8",
+            "sdg": 14,
+            "pertanyaan": "Apa fungsi terumbu karang bagi laut?",
+            "benar": "Tempat hidup dan berkembang biak berbagai jenis ikan",
+            "pengecoh": [
+                "Tempat membuang limbah pabrik",
+                "Tidak memiliki fungsi apa pun",
+                "Penyebab air laut menjadi asin"
+            ],
+            "penjelasan": "Terumbu karang juga melindungi pantai dari abrasi."
+        },
+        {
+            "id": "q96db985fa5",
+            "sdg": 14,
+            "pertanyaan": "Menangkap ikan dengan bom dapat…",
+            "benar": "Merusak terumbu karang dan membunuh banyak biota laut",
+            "pengecoh": [
+                "Menambah jumlah ikan",
+                "Membersihkan laut",
+                "Menyuburkan terumbu karang"
+            ],
+            "penjelasan": "Bom ikan menghancurkan rumah ikan sehingga hasil tangkapan di masa depan berkurang."
+        },
+        {
+            "id": "q1076ee772c",
+            "sdg": 14,
+            "pertanyaan": "Hutan bakau (mangrove) berfungsi untuk…",
+            "benar": "Melindungi pantai dari abrasi",
+            "pengecoh": [
+                "Mencemari laut",
+                "Mempercepat abrasi",
+                "Menjadi tempat membuang sampah"
+            ],
+            "penjelasan": "Akar mangrove menahan ombak dan menjadi tempat hidup banyak biota."
+        },
+        {
+            "id": "qa934acbc7f",
+            "sdg": 14,
+            "pertanyaan": "Mikroplastik adalah…",
+            "benar": "Potongan plastik sangat kecil yang mencemari lingkungan",
+            "pengecoh": [
+                "Plastik yang mudah terurai",
+                "Jenis ikan kecil",
+                "Alat penangkap ikan"
+            ],
+            "penjelasan": "Mikroplastik bisa termakan ikan lalu masuk ke tubuh manusia."
+        },
+        {
+            "id": "q9a5e3be786",
+            "sdg": 14,
+            "pertanyaan": "Penangkapan ikan berlebihan (overfishing) menyebabkan…",
+            "benar": "Populasi ikan berkurang drastis",
+            "pengecoh": [
+                "Jumlah ikan semakin banyak",
+                "Laut semakin bersih",
+                "Terumbu karang bertambah"
+            ],
+            "penjelasan": "Ikan perlu waktu untuk berkembang biak agar jumlahnya tetap terjaga."
+        },
+        {
+            "id": "q3a372f996e",
+            "sdg": 14,
+            "pertanyaan": "Pemutihan karang (coral bleaching) terutama disebabkan oleh…",
+            "benar": "Suhu air laut yang meningkat",
+            "pengecoh": [
+                "Jumlah ikan yang terlalu banyak",
+                "Air laut yang terlalu dingin",
+                "Cahaya bulan"
+            ],
+            "penjelasan": "Karang yang memutih bisa mati jika suhu air tidak kembali normal."
+        },
+        {
+            "id": "qf679305b31",
+            "sdg": 14,
+            "pertanyaan": "Indonesia disebut negara maritim karena…",
+            "benar": "Sebagian besar wilayahnya berupa lautan",
+            "pengecoh": [
+                "Tidak memiliki laut",
+                "Hanya memiliki satu pulau",
+                "Seluruh wilayahnya daratan"
+            ],
+            "penjelasan": "Laut Indonesia kaya akan ikan dan terumbu karang."
+        },
+        {
+            "id": "q8927ae7e6e",
+            "sdg": 14,
+            "pertanyaan": "Cara siswa ikut melindungi laut adalah…",
+            "benar": "Mengurangi penggunaan plastik sekali pakai",
+            "pengecoh": [
+                "Membuang sampah di pantai",
+                "Mengambil karang untuk hiasan",
+                "Memberi makan ikan dengan plastik"
+            ],
+            "penjelasan": "Banyak sampah plastik di laut berasal dari daratan."
+        },
+        {
+            "id": "q6946e794e5",
+            "sdg": 14,
+            "pertanyaan": "Hewan laut berikut yang dilindungi di Indonesia adalah…",
+            "benar": "Penyu",
+            "pengecoh": [
+                "Ikan lele",
+                "Ayam",
+                "Kambing"
+            ],
+            "penjelasan": "Penyu terancam karena perburuan telur dan sampah plastik."
+        },
+        {
+            "id": "qecd2efd26c",
+            "sdg": 15,
+            "pertanyaan": "Apa yang dimaksud dengan deforestasi?",
+            "benar": "Hilangnya hutan akibat penebangan atau pembukaan lahan",
+            "pengecoh": [
+                "Penanaman pohon di lahan kosong",
+                "Perlindungan hewan langka",
+                "Pembuatan taman kota"
+            ],
+            "penjelasan": "Hilangnya hutan mengancam satwa dan meningkatkan risiko banjir serta longsor."
+        },
+        {
+            "id": "q081f39978c",
+            "sdg": 15,
+            "pertanyaan": "Kegiatan menanam kembali hutan yang gundul disebut…",
+            "benar": "Reboisasi",
+            "pengecoh": [
+                "Deforestasi",
+                "Urbanisasi",
+                "Abrasi"
+            ],
+            "penjelasan": "Reboisasi memulihkan hutan yang rusak."
+        },
+        {
+            "id": "qceccc6e8f9",
+            "sdg": 15,
+            "pertanyaan": "Manakah hewan langka asli Indonesia yang dilindungi?",
+            "benar": "Orangutan",
+            "pengecoh": [
+                "Ayam kampung",
+                "Kucing",
+                "Kambing"
+            ],
+            "penjelasan": "Orangutan terancam karena habitatnya di hutan terus berkurang."
+        },
+        {
+            "id": "q238b4d456a",
+            "sdg": 15,
+            "pertanyaan": "Kebakaran hutan dapat menyebabkan…",
+            "benar": "Kabut asap dan hilangnya habitat satwa",
+            "pengecoh": [
+                "Udara menjadi lebih bersih",
+                "Hutan bertambah luas",
+                "Satwa bertambah banyak"
+            ],
+            "penjelasan": "Asap kebakaran hutan juga mengganggu kesehatan manusia."
+        },
+        {
+            "id": "q52509cbd57",
+            "sdg": 15,
+            "pertanyaan": "Kawasan yang dilindungi untuk melestarikan hewan dan tumbuhan disebut…",
+            "benar": "Taman nasional",
+            "pengecoh": [
+                "Pusat perbelanjaan",
+                "Kawasan industri",
+                "Terminal"
+            ],
+            "penjelasan": "Contohnya Taman Nasional Komodo dan Taman Nasional Ujung Kulon."
+        },
+        {
+            "id": "q4b8774c65d",
+            "sdg": 15,
+            "pertanyaan": "Hutan disebut paru-paru dunia karena…",
+            "benar": "Menghasilkan oksigen dan menyerap karbon dioksida",
+            "pengecoh": [
+                "Menghasilkan asap",
+                "Menyerap oksigen",
+                "Menjadi tempat sampah"
+            ],
+            "penjelasan": "Hutan menjaga kualitas udara yang kita hirup."
+        },
+        {
+            "id": "q5403450417",
+            "sdg": 15,
+            "pertanyaan": "Hewan endemik Indonesia yang hidup di Pulau Komodo dan sekitarnya adalah…",
+            "benar": "Komodo",
+            "pengecoh": [
+                "Panda",
+                "Kanguru",
+                "Singa"
+            ],
+            "penjelasan": "Komodo hanya hidup secara alami di Indonesia."
+        },
+        {
+            "id": "q368837c927",
+            "sdg": 15,
+            "pertanyaan": "Perburuan liar mengancam satwa karena…",
+            "benar": "Dapat membuat satwa punah",
+            "pengecoh": [
+                "Menambah jumlah satwa",
+                "Melindungi habitat",
+                "Menyuburkan hutan"
+            ],
+            "penjelasan": "Satwa yang punah tidak bisa dikembalikan lagi."
+        },
+        {
+            "id": "q71d76e6d57",
+            "sdg": 15,
+            "pertanyaan": "Erosi tanah dapat dicegah dengan…",
+            "benar": "Menanam pohon dan membuat terasering",
+            "pengecoh": [
+                "Menebang hutan",
+                "Membakar lahan",
+                "Menggali tanah sembarangan"
+            ],
+            "penjelasan": "Akar pohon mengikat tanah agar tidak terbawa air hujan."
+        },
+        {
+            "id": "q9edb6f3822",
+            "sdg": 15,
+            "pertanyaan": "Sampah plastik di tanah berbahaya karena…",
+            "benar": "Butuh ratusan tahun untuk terurai",
+            "pengecoh": [
+                "Terurai dalam sehari",
+                "Menyuburkan tanah",
+                "Menjadi makanan cacing"
+            ],
+            "penjelasan": "Plastik yang tertimbun mengganggu kesuburan dan kehidupan di dalam tanah."
+        },
+        {
+            "id": "q2ba43f0a92",
+            "sdg": 16,
+            "pertanyaan": "Sikap yang mendukung SDG 16 di sekolah adalah…",
+            "benar": "Menyelesaikan masalah dengan musyawarah dan menolak perundungan",
+            "pengecoh": [
+                "Membalas ejekan dengan kekerasan",
+                "Ikut-ikutan merundung teman",
+                "Menyebarkan berita bohong tentang teman"
+            ],
+            "penjelasan": "SDG 16 ingin masyarakat hidup damai, adil, dan tanpa kekerasan."
+        },
+        {
+            "id": "q2faff6820f",
+            "sdg": 16,
+            "pertanyaan": "Lembaga negara di Indonesia yang bertugas memberantas korupsi adalah…",
+            "benar": "KPK",
+            "pengecoh": [
+                "BMKG",
+                "BPS",
+                "BNPB"
+            ],
+            "penjelasan": "Korupsi merugikan masyarakat dan bertentangan dengan SDG 16."
+        },
+        {
+            "id": "qecdba32501",
+            "sdg": 16,
+            "pertanyaan": "Jika melihat perundungan di sekolah, sebaiknya kamu…",
+            "benar": "Melaporkannya kepada guru atau orang dewasa tepercaya",
+            "pengecoh": [
+                "Diam saja",
+                "Ikut merundung",
+                "Merekam lalu menyebarkannya"
+            ],
+            "penjelasan": "Melapor membantu menghentikan perundungan dan melindungi korban."
+        },
+        {
+            "id": "qb32953114e",
+            "sdg": 16,
+            "pertanyaan": "Contoh sikap jujur di sekolah adalah…",
+            "benar": "Tidak menyontek saat ujian",
+            "pengecoh": [
+                "Menyalin tugas teman",
+                "Berbohong kepada guru",
+                "Mengambil barang milik teman"
+            ],
+            "penjelasan": "Kejujuran adalah dasar lembaga yang bersih dan dapat dipercaya."
+        },
+        {
+            "id": "q7bade8137a",
+            "sdg": 16,
+            "pertanyaan": "Musyawarah adalah cara mengambil keputusan dengan…",
+            "benar": "Berdiskusi bersama untuk mencapai kesepakatan",
+            "pengecoh": [
+                "Memaksakan pendapat sendiri",
+                "Bertengkar sampai ada yang menang",
+                "Mengikuti satu orang saja"
+            ],
+            "penjelasan": "Musyawarah membuat keputusan adil karena semua pendapat didengar."
+        },
+        {
+            "id": "q8478a08c23",
+            "sdg": 16,
+            "pertanyaan": "Hak setiap anak yang dilindungi negara antara lain…",
+            "benar": "Hak mendapat pendidikan dan perlindungan",
+            "pengecoh": [
+                "Hak bekerja di pabrik",
+                "Hak untuk tidak sekolah",
+                "Hak menerima kekerasan"
+            ],
+            "penjelasan": "Melindungi anak dari kekerasan adalah salah satu target SDG 16."
+        },
+        {
+            "id": "qec5bd8d3b1",
+            "sdg": 16,
+            "pertanyaan": "Berita bohong (hoaks) sebaiknya…",
+            "benar": "Dicek kebenarannya dan tidak disebarkan",
+            "pengecoh": [
+                "Langsung dibagikan",
+                "Ditambah-tambahi",
+                "Dipercaya begitu saja"
+            ],
+            "penjelasan": "Hoaks bisa memicu perpecahan dan konflik."
+        },
+        {
+            "id": "q16677433d6",
+            "sdg": 16,
+            "pertanyaan": "Contoh lembaga peradilan di Indonesia adalah…",
+            "benar": "Mahkamah Agung",
+            "pengecoh": [
+                "BMKG",
+                "Puskesmas",
+                "Bulog"
+            ],
+            "penjelasan": "Lembaga peradilan menegakkan hukum secara adil."
+        },
+        {
+            "id": "q343d14d24f",
+            "sdg": 16,
+            "pertanyaan": "Pemilihan ketua kelas yang adil dilakukan dengan…",
+            "benar": "Pemungutan suara yang jujur dan terbuka",
+            "pengecoh": [
+                "Ditunjuk oleh satu siswa saja",
+                "Memilih yang paling kuat",
+                "Diundi tanpa persetujuan kelas"
+            ],
+            "penjelasan": "Keputusan yang adil melibatkan suara semua anggota."
+        },
+        {
+            "id": "q84928c3ed9",
+            "sdg": 16,
+            "pertanyaan": "Akta kelahiran penting karena…",
+            "benar": "Menjadi bukti identitas resmi seorang anak",
+            "pengecoh": [
+                "Hanya hiasan",
+                "Tidak ada gunanya",
+                "Hanya untuk orang dewasa"
+            ],
+            "penjelasan": "Identitas resmi untuk semua orang adalah salah satu target SDG 16."
+        },
+        {
+            "id": "qc3cb173624",
+            "sdg": 17,
+            "pertanyaan": "SDG 17 menekankan pentingnya…",
+            "benar": "Kerja sama antara pemerintah, swasta, masyarakat, dan antarnegara",
+            "pengecoh": [
+                "Setiap negara bekerja sendiri-sendiri",
+                "Persaingan tanpa aturan",
+                "Menutup hubungan dengan negara lain"
+            ],
+            "penjelasan": "Tujuan SDGs terlalu besar untuk dicapai satu pihak saja."
+        },
+        {
+            "id": "qef251fc00d",
+            "sdg": 17,
+            "pertanyaan": "Manakah contoh kemitraan untuk mencapai SDGs?",
+            "benar": "Perusahaan bekerja sama dengan sekolah menyediakan tempat sampah terpilah",
+            "pengecoh": [
+                "Sekolah melarang orang tua ikut kegiatan",
+                "Siswa mengerjakan tugas kelompok sendirian",
+                "Warga menolak program kebersihan lingkungan"
+            ],
+            "penjelasan": "Kemitraan terjadi saat beberapa pihak bekerja sama untuk tujuan yang sama."
+        },
+        {
+            "id": "qd48c2fd858",
+            "sdg": 17,
+            "pertanyaan": "Apa kepanjangan dari SDGs?",
+            "benar": "Sustainable Development Goals",
+            "pengecoh": [
+                "Social Development Groups",
+                "Sustainable Daily Goals",
+                "Smart Development Generation"
+            ],
+            "penjelasan": "SDGs terdiri dari 17 tujuan global yang ditargetkan tercapai pada tahun 2030."
+        },
+        {
+            "id": "q966e23f231",
+            "sdg": 17,
+            "pertanyaan": "Contoh kerja sama di sekolah untuk mendukung SDGs adalah…",
+            "benar": "OSIS dan warga sekolah bergotong royong membersihkan lingkungan",
+            "pengecoh": [
+                "Setiap siswa bekerja sendiri-sendiri",
+                "Saling menyalahkan saat ada masalah",
+                "Menolak semua kegiatan bersama"
+            ],
+            "penjelasan": "Gotong royong adalah bentuk kemitraan di lingkungan terdekat."
+        },
+        {
+            "id": "q98767a9293",
+            "sdg": 17,
+            "pertanyaan": "Mengapa SDGs membutuhkan kemitraan?",
+            "benar": "Karena tujuan besar tidak bisa dicapai oleh satu pihak saja",
+            "pengecoh": [
+                "Karena hanya pemerintah yang bertanggung jawab",
+                "Karena SDGs hanya untuk negara maju",
+                "Karena masyarakat tidak perlu terlibat"
+            ],
+            "penjelasan": "Pemerintah, swasta, masyarakat, dan negara lain perlu bergerak bersama."
+        },
+        {
+            "id": "q3f8074e525",
+            "sdg": 17,
+            "pertanyaan": "Kerja sama Indonesia dengan negara-negara di Asia Tenggara dilakukan melalui…",
+            "benar": "ASEAN",
+            "pengecoh": [
+                "FIFA",
+                "Liga Champions",
+                "Grammy"
+            ],
+            "penjelasan": "Indonesia adalah salah satu negara pendiri ASEAN pada tahun 1967."
+        },
+        {
+            "id": "q35c4e494f7",
+            "sdg": 17,
+            "pertanyaan": "Indonesia menjadi tuan rumah KTT G20 di Bali pada tahun…",
+            "benar": "2022",
+            "pengecoh": [
+                "1945",
+                "1998",
+                "2010"
+            ],
+            "penjelasan": "Forum G20 membahas kerja sama ekonomi dan pembangunan antarnegara."
+        },
+        {
+            "id": "qe4872f52d3",
+            "sdg": 17,
+            "pertanyaan": "Komunitas yang menyumbangkan buku ke perpustakaan desa adalah contoh…",
+            "benar": "Kemitraan masyarakat untuk pendidikan",
+            "pengecoh": [
+                "Persaingan",
+                "Pemborosan",
+                "Diskriminasi"
+            ],
+            "penjelasan": "Kemitraan bisa dimulai dari kelompok kecil di sekitar kita."
+        },
+        {
+            "id": "qc82d8901cb",
+            "sdg": 17,
+            "pertanyaan": "Teknologi dapat membantu kemitraan global karena…",
+            "benar": "Memudahkan berbagi ilmu dan berkomunikasi antarnegara",
+            "pengecoh": [
+                "Memutus komunikasi",
+                "Membuat negara terisolasi",
+                "Menghambat kerja sama"
+            ],
+            "penjelasan": "Internet memungkinkan kolaborasi lintas negara dengan cepat."
+        },
+        {
+            "id": "q64b77d69a2",
+            "sdg": 17,
+            "pertanyaan": "SDGs ditargetkan tercapai pada tahun…",
+            "benar": "2030",
+            "pengecoh": [
+                "2020",
+                "2025",
+                "2045"
+            ],
+            "penjelasan": "SDGs disepakati pada tahun 2015 untuk dicapai dalam 15 tahun."
+        }
+    ],
+    "keputusan": [
+        {
+            "id": "k131494a513",
+            "sdg": 13,
+            "situasi": "Jarak rumahmu ke sekolah 1 km dan cuaca cerah. Kamu berangkat dengan…",
+            "pilihan": [
+                "Berjalan kaki atau bersepeda",
+                "Naik angkot atau bus bersama teman",
+                "Minta diantar mobil pribadi sendirian"
+            ],
+            "penjelasan": "Berjalan kaki dan bersepeda tidak menghasilkan emisi. Transportasi umum lebih baik daripada kendaraan pribadi."
+        },
+        {
+            "id": "k51c8c22344",
+            "sdg": 12,
+            "situasi": "Kamu haus saat jalan-jalan di pusat perbelanjaan. Kamu memilih…",
+            "pilihan": [
+                "Mengisi ulang botol minum yang kamu bawa",
+                "Membeli minuman kaleng lalu membuang kalengnya ke tempat daur ulang",
+                "Membeli air botol plastik lalu membuangnya sembarangan"
+            ],
+            "penjelasan": "Botol isi ulang tidak menghasilkan sampah baru. Kaleng masih bisa didaur ulang jika dibuang dengan benar."
+        },
+        {
+            "id": "kc04b60b909",
+            "sdg": 7,
+            "situasi": "Lampu dan kipas kelas masih menyala saat istirahat, padahal kelas kosong. Kamu…",
+            "pilihan": [
+                "Mematikannya sebelum keluar kelas",
+                "Mengingatkan petugas piket untuk mematikannya nanti",
+                "Membiarkannya menyala"
+            ],
+            "penjelasan": "Mematikan listrik yang tidak dipakai langsung menghemat energi."
+        },
+        {
+            "id": "ke55de6d55f",
+            "sdg": 12,
+            "situasi": "Bekal makan siangmu tidak habis. Kamu…",
+            "pilihan": [
+                "Menyimpannya untuk dihabiskan nanti, lalu membawa porsi lebih kecil besok",
+                "Memberikan sisa makanan untuk kompos atau pakan ternak",
+                "Membuangnya ke tempat sampah"
+            ],
+            "penjelasan": "Mengurangi sisa makanan sejak awal adalah cara terbaik mencegah food waste."
+        },
+        {
+            "id": "kc650a06967",
+            "sdg": 16,
+            "situasi": "Kamu melihat temanmu dirundung di kelas. Kamu…",
+            "pilihan": [
+                "Melapor ke guru dan menemani temanmu",
+                "Menghibur temanmu setelah kejadian",
+                "Ikut menertawakannya"
+            ],
+            "penjelasan": "Melapor membantu menghentikan perundungan. Menghibur korban tetap baik, tetapi perundungannya belum berhenti."
+        },
+        {
+            "id": "k4a7516f75d",
+            "sdg": 10,
+            "situasi": "Ada teman baru penyandang disabilitas di kelasmu. Kamu…",
+            "pilihan": [
+                "Mengajaknya bergabung dan bertanya bantuan apa yang ia perlukan",
+                "Bersikap ramah tetapi tidak mengajaknya bergabung",
+                "Menjauhinya"
+            ],
+            "penjelasan": "Melibatkan teman penyandang disabilitas membuat kelas lebih inklusif."
+        },
+        {
+            "id": "k5b4772a430",
+            "sdg": 12,
+            "situasi": "Kaos lamamu sudah kekecilan, tetapi masih bagus. Kamu…",
+            "pilihan": [
+                "Menyumbangkannya kepada yang membutuhkan",
+                "Menjadikannya kain lap",
+                "Membuangnya ke tempat sampah"
+            ],
+            "penjelasan": "Pakaian layak pakai masih bermanfaat bagi orang lain dan tidak menjadi sampah."
+        },
+        {
+            "id": "k900987dfd5",
+            "sdg": 6,
+            "situasi": "Saat menyikat gigi, kamu…",
+            "pilihan": [
+                "Mematikan keran dan memakai gelas untuk berkumur",
+                "Mengecilkan aliran keran",
+                "Membiarkan keran terus mengalir"
+            ],
+            "penjelasan": "Menutup keran saat menyikat gigi menghemat banyak air bersih setiap hari."
+        },
+        {
+            "id": "k733bf153e2",
+            "sdg": 5,
+            "situasi": "Kelompokmu harus memilih ketua untuk tugas kelompok. Kalian…",
+            "pilihan": [
+                "Memilih bersama berdasarkan kemampuan, siapa pun jenis kelaminnya",
+                "Mengundi nama semua anggota",
+                "Menetapkan bahwa ketua harus laki-laki"
+            ],
+            "penjelasan": "Pemimpin dipilih karena kemampuannya, bukan jenis kelaminnya."
+        },
+        {
+            "id": "k4c7d566bc7",
+            "sdg": 12,
+            "situasi": "Kamu menemukan baterai bekas di rumah. Kamu…",
+            "pilihan": [
+                "Memisahkannya dan menyerahkannya ke tempat pengumpulan sampah B3",
+                "Menyimpannya dulu di wadah tertutup",
+                "Mencampurnya dengan sampah dapur"
+            ],
+            "penjelasan": "Baterai mengandung bahan berbahaya yang bisa mencemari tanah dan air."
+        },
+        {
+            "id": "k0fa3a9a294",
+            "sdg": 12,
+            "situasi": "Ibumu mengajakmu belanja ke pasar. Kamu menyarankan…",
+            "pilihan": [
+                "Membawa tas belanja sendiri dari rumah",
+                "Meminta satu kantong plastik besar lalu memakainya ulang",
+                "Meminta kantong plastik untuk setiap barang"
+            ],
+            "penjelasan": "Tas belanja yang dipakai berulang mengurangi sampah plastik."
+        },
+        {
+            "id": "kfaaf24627c",
+            "sdg": 16,
+            "situasi": "Kamu menerima pesan berantai yang belum jelas kebenarannya. Kamu…",
+            "pilihan": [
+                "Mengecek ke sumber tepercaya dan tidak menyebarkannya",
+                "Tidak menyebarkannya, tetapi juga tidak mengeceknya",
+                "Langsung menyebarkannya ke semua grup"
+            ],
+            "penjelasan": "Hoaks yang disebarkan bisa memicu kepanikan dan perpecahan."
+        },
+        {
+            "id": "ka6c3fa9896",
+            "sdg": 15,
+            "situasi": "Di rumahmu ada lahan kosong kecil. Kamu mengusulkan untuk…",
+            "pilihan": [
+                "Menanam sayur atau pohon buah",
+                "Menanam rumput atau tanaman hias",
+                "Menutup seluruhnya dengan semen"
+            ],
+            "penjelasan": "Tanaman menyerap air hujan dan karbon dioksida. Sayur dan buah juga bisa dimakan."
+        }
+    ],
+    "sampah": [
+        {
+            "id": "scfa35a4cda",
+            "nama": "Kulit pisang",
+            "jenis": "org"
+        },
+        {
+            "id": "s508e0a58e4",
+            "nama": "Sisa nasi",
+            "jenis": "org"
+        },
+        {
+            "id": "sc20f159e9e",
+            "nama": "Daun kering",
+            "jenis": "org"
+        },
+        {
+            "id": "sa7e55ae119",
+            "nama": "Ampas kopi",
+            "jenis": "org"
+        },
+        {
+            "id": "s9345bb6a66",
+            "nama": "Kulit telur",
+            "jenis": "org"
+        },
+        {
+            "id": "sc27f9b7882",
+            "nama": "Sisa sayuran",
+            "jenis": "org"
+        },
+        {
+            "id": "s88ce5725d1",
+            "nama": "Tulang ikan",
+            "jenis": "org"
+        },
+        {
+            "id": "s23bfa176b2",
+            "nama": "Botol plastik",
+            "jenis": "anorg"
+        },
+        {
+            "id": "s5a36aacd35",
+            "nama": "Kaleng minuman",
+            "jenis": "anorg"
+        },
+        {
+            "id": "s98cd650635",
+            "nama": "Kardus bekas",
+            "jenis": "anorg"
+        },
+        {
+            "id": "s14feb80ae9",
+            "nama": "Kertas HVS bekas",
+            "jenis": "anorg"
+        },
+        {
+            "id": "sac2a592048",
+            "nama": "Botol kaca",
+            "jenis": "anorg"
+        },
+        {
+            "id": "s85c74d4fc6",
+            "nama": "Koran bekas",
+            "jenis": "anorg"
+        },
+        {
+            "id": "s452a7dc6fd",
+            "nama": "Baterai bekas",
+            "jenis": "b3"
+        },
+        {
+            "id": "sb48da1f903",
+            "nama": "Lampu neon bekas",
+            "jenis": "b3"
+        },
+        {
+            "id": "s597a22936e",
+            "nama": "Kaleng obat nyamuk semprot",
+            "jenis": "b3"
+        },
+        {
+            "id": "sdae3b5fa5d",
+            "nama": "Obat kedaluwarsa",
+            "jenis": "b3"
+        },
+        {
+            "id": "sde26a89081",
+            "nama": "Termometer raksa pecah",
+            "jenis": "b3"
+        },
+        {
+            "id": "s5aaf329133",
+            "nama": "Ponsel rusak",
+            "jenis": "b3"
+        },
+        {
+            "id": "s2f61fc7823",
+            "nama": "Popok sekali pakai",
+            "jenis": "res"
+        },
+        {
+            "id": "s6ea5048ff4",
+            "nama": "Puntung rokok",
+            "jenis": "res"
+        },
+        {
+            "id": "s8b60a4b31b",
+            "nama": "Tisu bekas",
+            "jenis": "res"
+        },
+        {
+            "id": "safc8ef6802",
+            "nama": "Bungkus mi instan",
+            "jenis": "res"
+        },
+        {
+            "id": "s5ae47ef847",
+            "nama": "Styrofoam bekas makanan",
+            "jenis": "res"
+        },
+        {
+            "id": "scabeb57d10",
+            "nama": "Masker sekali pakai",
+            "jenis": "res"
+        }
+    ]
+}
